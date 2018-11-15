@@ -1,0 +1,4737 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5421676635742,
+          34.4781951904297
+        ]
+      },
+      "properties": {
+        "name": "Gnarled Shallows",
+        "type": 36
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6107864379883,
+          27.1204566955566
+        ]
+      },
+      "properties": {
+        "name": "Gulper Lagoon",
+        "type": 36
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0700798034668,
+          32.1162414550781
+        ]
+      },
+      "properties": {
+        "name": "Highland Marsh",
+        "type": 36
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.6490802763672,
+          20.5429954528809
+        ]
+      },
+      "properties": {
+        "name": "Moonshiner's Shack",
+        "type": 79
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.800838470459,
+          -22.1690330505371
+        ]
+      },
+      "properties": {
+        "name": "Abandoned Mine Site Kittery",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7580947875977,
+          -27.9963073730469
+        ]
+      },
+      "properties": {
+        "name": "Abandoned Mine Shaft Elaine",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -30.818410873291,
+          -20.1459331513672
+        ]
+      },
+      "properties": {
+        "name": "Abandoned Mine Shaft 5",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5068359375,
+          -26.5927734375
+        ]
+      },
+      "properties": {
+        "name": "Bastion Park",
+        "type": 82
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.604549407959,
+          -6.57409000390625
+        ]
+      },
+      "properties": {
+        "name": "Treetops",
+        "type": 79
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.489803314209,
+          -23.186336517334
+        ]
+      },
+      "properties": {
+        "name": "Pylon V-13",
+        "type": 95
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.4991569519043,
+          30.5442562102051
+        ]
+      },
+      "properties": {
+        "name": "Southhampton Estate",
+        "type": 79
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6660003662109,
+          50.1826782226563
+        ]
+      },
+      "properties": {
+        "name": "The Crosshair",
+        "type": 61
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0643501281738,
+          22.5496253967285
+        ]
+      },
+      "properties": {
+        "name": "Lumber Camp",
+        "type": 2
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.480297088623,
+          -11.2817487717285
+        ]
+      },
+      "properties": {
+        "name": "Charleston Herald",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3269653320313,
+          -18.5420475004883
+        ]
+      },
+      "properties": {
+        "name": "Sundew Grove 03",
+        "type": 25
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0384826660156,
+          -29.1875019072266
+        ]
+      },
+      "properties": {
+        "name": "Sundew Grove 02",
+        "type": 25
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9846267700195,
+          -42.0322151184082
+        ]
+      },
+      "properties": {
+        "name": "Overgrown Sundew Grove",
+        "type": 25
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1060428618164,
+          -42.1308708190918
+        ]
+      },
+      "properties": {
+        "name": "Sparse Sundew Grove",
+        "type": 25
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.09837579736328,
+          -35.5006561279297
+        ]
+      },
+      "properties": {
+        "name": "Scenic Overlook",
+        "type": 82
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8290863037109,
+          16.86512565625
+        ]
+      },
+      "properties": {
+        "name": "Carson Family Bunker",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.5356941223145,
+          12.5646324157715
+        ]
+      },
+      "properties": {
+        "name": "Hunter's Ridge",
+        "type": 2
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.33692073828125,
+          30.9110240935059
+        ]
+      },
+      "properties": {
+        "name": "Grafton Steel Yard",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5084037780762,
+          -35.7809715270996
+        ]
+      },
+      "properties": {
+        "name": "Vault 63",
+        "type": 67
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9070568085937,
+          18.0081367492676
+        ]
+      },
+      "properties": {
+        "name": "",
+        "type": 30
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2530403137207,
+          23.0775852202148
+        ]
+      },
+      "properties": {
+        "name": "Thunder Mt. Power Plant Yard",
+        "type": 30
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.3754653930664,
+          -20.6931972504883
+        ]
+      },
+      "properties": {
+        "name": "Brim Quarry",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0781211853027,
+          1.91114175317383
+        ]
+      },
+      "properties": {
+        "name": "Hawke's Refuge",
+        "type": 0
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.2013702392578,
+          36.8752670288086
+        ]
+      },
+      "properties": {
+        "name": "Becker Farm",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.06994462011719,
+          42.5367164611816
+        ]
+      },
+      "properties": {
+        "name": "Graninger Farm",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.53029966357422,
+          37.2344665527344
+        ]
+      },
+      "properties": {
+        "name": "Smith Farm",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6166944504395,
+          13.8268737792969
+        ]
+      },
+      "properties": {
+        "name": "Seneca Rocks Visitor Center",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4230766296387,
+          -33.393970489502
+        ]
+      },
+      "properties": {
+        "name": "Nicholson's End",
+        "type": 80
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.403919577636719,
+          -28.8488674162598
+        ]
+      },
+      "properties": {
+        "name": "Site Charlie",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.048828125,
+          -40.47265625
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Zeta",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.2978515625,
+          -38.8876953125
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Alpha",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1468276977539,
+          21.8737926484375
+        ]
+      },
+      "properties": {
+        "name": "Dolly Sods Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2500190734863,
+          -21.5049228666992
+        ]
+      },
+      "properties": {
+        "name": "Ranger Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2430267333984,
+          31.8949604033203
+        ]
+      },
+      "properties": {
+        "name": "East Ridge Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.7209110258789,
+          -40.9695892333984
+        ]
+      },
+      "properties": {
+        "name": "Striker Row",
+        "type": 2
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2859382629395,
+          -14.4148139953613
+        ]
+      },
+      "properties": {
+        "name": "US-13C Bivouac",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.64000844946289,
+          8.33732986450195
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Theta",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.21454572680664,
+          -2.69325184814453
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Tau",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4555168151855,
+          30.477840423584
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Sigma",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6396713256836,
+          18.4097709655762
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Omicron",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.4840393066406,
+          -39.6352500915527
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Omega",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.44483947753906,
+          -17.2782249450684
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Lambda",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.1617336274414,
+          43.3357734680176
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Kappa",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3791608811035,
+          -36.8579139709473
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Alpha",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.274528503418,
+          -16.2443962097168
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Epsilon",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68679618847656,
+          47.6226196289063
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Delta",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.7692718505859,
+          -8.58694744116211
+        ]
+      },
+      "properties": {
+        "name": "Camp Adams Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.5944156645508,
+          11.5736503601074
+        ]
+      },
+      "properties": {
+        "name": "Flatwoods Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5014781953125,
+          -30.1520442961426
+        ]
+      },
+      "properties": {
+        "name": "South Mountain Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5244293212891,
+          44.5276565551758
+        ]
+      },
+      "properties": {
+        "name": "Fissure Site Beta",
+        "type": 66
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.8365879057617,
+          -20.1345596313477
+        ]
+      },
+      "properties": {
+        "name": "Belching Betty",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7637882231445,
+          -24.9579467773438
+        ]
+      },
+      "properties": {
+        "name": "The Freak Show",
+        "type": 61
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3681678771973,
+          26.2020874023438
+        ]
+      },
+      "properties": {
+        "name": "Excelsior Model Home",
+        "type": 47
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5035285949707,
+          44.6775779724121
+        ]
+      },
+      "properties": {
+        "name": "Clancy Manor",
+        "type": 72
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4251480102539,
+          13.6581869125977
+        ]
+      },
+      "properties": {
+        "name": "Slocum's Joe",
+        "type": 47
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5074605942383,
+          -19.3474006652832
+        ]
+      },
+      "properties": {
+        "name": "Twin Lakes",
+        "type": 36
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5861740112305,
+          -38.2001647949219
+        ]
+      },
+      "properties": {
+        "name": "Lake Eloise",
+        "type": 36
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.48140192041016,
+          -31.5427150725098
+        ]
+      },
+      "properties": {
+        "name": "Spruce Knob Channels",
+        "type": 36
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59133815771484,
+          -29.5951309204102
+        ]
+      },
+      "properties": {
+        "name": "Spruce Knob Lake",
+        "type": 36
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2949142456055,
+          48.7334403991699
+        ]
+      },
+      "properties": {
+        "name": "Knife Edge",
+        "type": 61
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9416599272461,
+          -24.7973232270508
+        ]
+      },
+      "properties": {
+        "name": "Superior Sunset Farm",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8152389526367,
+          -42.2319259643555
+        ]
+      },
+      "properties": {
+        "name": "Firebase Hancock",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5424613952637,
+          -13.5549879074707
+        ]
+      },
+      "properties": {
+        "name": "Firebase LT",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6654319763184,
+          -14.6767835617676
+        ]
+      },
+      "properties": {
+        "name": "Firebase Major",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6961956022949,
+          -25.2898120878906
+        ]
+      },
+      "properties": {
+        "name": "The Thorn",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3295612333984,
+          -21.2642421723633
+        ]
+      },
+      "properties": {
+        "name": "Forward Station Alpha",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5720634460449,
+          -39.6806678771973
+        ]
+      },
+      "properties": {
+        "name": "Sunrise Field",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5768432617188,
+          -23.3330574035645
+        ]
+      },
+      "properties": {
+        "name": "Old Mold Quarry",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3429946899414,
+          -37.7905426025391
+        ]
+      },
+      "properties": {
+        "name": "Survey Camp Alpha",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9738540649414,
+          -40.1558647155762
+        ]
+      },
+      "properties": {
+        "name": "Lost Home",
+        "type": 79
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3288688659668,
+          -41.3340835571289
+        ]
+      },
+      "properties": {
+        "name": "Forward Station Delta",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -30.5343036650391,
+          -35.8562850952148
+        ]
+      },
+      "properties": {
+        "name": "Mine Shaft No. 9",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.9360523222656,
+          -28.0876674650879
+        ]
+      },
+      "properties": {
+        "name": "Rollins Work Camp",
+        "type": 80
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5630931853027,
+          -24.9153728486328
+        ]
+      },
+      "properties": {
+        "name": "Pleasant Hills Cemetery",
+        "type": 27
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.46470642089844,
+          -15.7423677443848
+        ]
+      },
+      "properties": {
+        "name": "Solomon's Pond",
+        "type": 36
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4472141264648,
+          24.2654666899414
+        ]
+      },
+      "properties": {
+        "name": "Ammo Dump",
+        "type": 80
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.9487228393555,
+          -17.9094772338867
+        ]
+      },
+      "properties": {
+        "name": "Bleeding Kate's Grinder",
+        "type": 61
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.73975610742187,
+          -41.1165428161621
+        ]
+      },
+      "properties": {
+        "name": "Dent & Sons Construction",
+        "type": 80
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1799831391602,
+          -43.9024124145508
+        ]
+      },
+      "properties": {
+        "name": "Johnson's Acre",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.597805976806641,
+          -2.18153595922852
+        ]
+      },
+      "properties": {
+        "name": "Cliffwatch",
+        "type": 82
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0381603242188,
+          4.9462599753418
+        ]
+      },
+      "properties": {
+        "name": "Yellow Sandy's Still",
+        "type": 80
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.21625733374023,
+          -8.26265811914062
+        ]
+      },
+      "properties": {
+        "name": "Safe 'n Clean Disposal",
+        "type": 38
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2339534760742,
+          -15.9911623000488
+        ]
+      },
+      "properties": {
+        "name": "Ripper Alley",
+        "type": 61
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.3597812651367,
+          -14.9837837219238
+        ]
+      },
+      "properties": {
+        "name": "Summersville Dam",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.694984436035156,
+          34.247631072998
+        ]
+      },
+      "properties": {
+        "name": "Pioneer Scout Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.5520420073242,
+          29.5345420837402
+        ]
+      },
+      "properties": {
+        "name": "Anchor Farm",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6261787414551,
+          -14.6114158630371
+        ]
+      },
+      "properties": {
+        "name": "East Mountain Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.819019317627,
+          14.283200263916
+        ]
+      },
+      "properties": {
+        "name": "Wixon Homestead",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.5390625,
+          44.857421875
+        ]
+      },
+      "properties": {
+        "name": "Hemlock Holes",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.3079500197754,
+          15.3047618864746
+        ]
+      },
+      "properties": {
+        "name": "Gauley Mine",
+        "type": 0
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75658607470703,
+          -16.6785259245605
+        ]
+      },
+      "properties": {
+        "name": "The Vantage",
+        "type": 82
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.5657920837402,
+          -20.6563510893555
+        ]
+      },
+      "properties": {
+        "name": "Widow's Perch",
+        "type": 82
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8472385405273,
+          10.0989713669434
+        ]
+      },
+      "properties": {
+        "name": "The Sludge Hole",
+        "type": 61
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.3703327177734,
+          -32.1639099121094
+        ]
+      },
+      "properties": {
+        "name": "Red Rocket Filling Station",
+        "type": 24
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.4744110107422,
+          40.3600082397461
+        ]
+      },
+      "properties": {
+        "name": "Darling Sister's Lab",
+        "type": 79
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.3889999389648,
+          32.0184440612793
+        ]
+      },
+      "properties": {
+        "name": "Deathclaw Island",
+        "type": 25
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.6259956359863,
+          30.7715873718262
+        ]
+      },
+      "properties": {
+        "name": "Transmission Station 1AT-U03",
+        "type": 39
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.1636619567871,
+          42.5485382080078
+        ]
+      },
+      "properties": {
+        "name": "Groves Family Cabin",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4256305693359,
+          39.3593254089355
+        ]
+      },
+      "properties": {
+        "name": "Cobbleton Farm",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.3891162871094,
+          37.3524322509766
+        ]
+      },
+      "properties": {
+        "name": "Lady Janet's Soft Serve",
+        "type": 84
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4305305480957,
+          -7.53501939770508
+        ]
+      },
+      "properties": {
+        "name": "Camp Adams",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1737823486328,
+          27.8153400419922
+        ]
+      },
+      "properties": {
+        "name": "Twin Pine Cabins",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.5658988952637,
+          19.3863525390625
+        ]
+      },
+      "properties": {
+        "name": "Marigold Pavilion",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5218963623047,
+          -37.5183906555176
+        ]
+      },
+      "properties": {
+        "name": "NAR Repair Yard",
+        "type": 56
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3931350708008,
+          -26.5428314208984
+        ]
+      },
+      "properties": {
+        "name": "Drop Site G3",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5090179443359,
+          -27.3633213041992
+        ]
+      },
+      "properties": {
+        "name": "Cranberry Bog Region",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7216377258301,
+          -38.4768295288086
+        ]
+      },
+      "properties": {
+        "name": "Drop Site V9",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5641975402832,
+          -25.7111644743652
+        ]
+      },
+      "properties": {
+        "name": "Drop Site C2",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.7742614746094,
+          -17.4396686552734
+        ]
+      },
+      "properties": {
+        "name": "Mac's Farm",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.31847906103516,
+          46.4179153442383
+        ]
+      },
+      "properties": {
+        "name": "Willard Corporate Housing",
+        "type": 80
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.10822796826172,
+          44.3139038085938
+        ]
+      },
+      "properties": {
+        "name": "Kiddie Corner Cabins",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5231513977051,
+          9.34964656835938
+        ]
+      },
+      "properties": {
+        "name": "Big Maw",
+        "type": 36
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4236679077148,
+          17.4156341552734
+        ]
+      },
+      "properties": {
+        "name": "Mosstown",
+        "type": 9
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.41916322705078,
+          24.3162860869141
+        ]
+      },
+      "properties": {
+        "name": "Ingram Mansion",
+        "type": 72
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.80174541479492,
+          8.73448276513672
+        ]
+      },
+      "properties": {
+        "name": "Skullbone Vantage",
+        "type": 61
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6563529968262,
+          11.3078460693359
+        ]
+      },
+      "properties": {
+        "name": "Autumn Acre Cabin",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8656959533691,
+          43.8155212402344
+        ]
+      },
+      "properties": {
+        "name": "Bailey Family Cabin",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8206424711914,
+          12.2359189987793
+        ]
+      },
+      "properties": {
+        "name": "Seneca Gang Camp",
+        "type": 61
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1915550231934,
+          9.63129901879883
+        ]
+      },
+      "properties": {
+        "name": "Toxic Larry's Meat 'n Go",
+        "type": 79
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2292900085449,
+          6.07631540307617
+        ]
+      },
+      "properties": {
+        "name": "North Cutthroat Camp",
+        "type": 61
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47182512280273,
+          -2.36650323876953
+        ]
+      },
+      "properties": {
+        "name": "98 NAR Regional",
+        "type": 86
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.456184387207,
+          1.63524854174805
+        ]
+      },
+      "properties": {
+        "name": "South Cutthroat Camp",
+        "type": 61
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5728960036621,
+          -1.83066475390625
+        ]
+      },
+      "properties": {
+        "name": "Maybell Pond",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.07531785961914,
+          7.59237670898438
+        ]
+      },
+      "properties": {
+        "name": "Horizon's Rest",
+        "type": 15
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.712703704834,
+          -31.2608318327637
+        ]
+      },
+      "properties": {
+        "name": "The Savage Divide",
+        "type": 95
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.507823467285156,
+          21.4973564147949
+        ]
+      },
+      "properties": {
+        "name": "Morgantown",
+        "type": 1
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.541015625,
+          -31.228515625
+        ]
+      },
+      "properties": {
+        "name": "Beckley Mine Exhibit",
+        "type": 11
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2800140380859,
+          14.5330533981934
+        ]
+      },
+      "properties": {
+        "name": "Raleigh Clay's Bunker",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4790649414063,
+          25.1275024414063
+        ]
+      },
+      "properties": {
+        "name": "Ella Ames' Bunker",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2196884155273,
+          33.7200393676758
+        ]
+      },
+      "properties": {
+        "name": "Abbie's Bunker",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4059715270996,
+          17.0153656005859
+        ]
+      },
+      "properties": {
+        "name": "Braxson's Quality Medical Supplies",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.20558643334961,
+          21.5335922241211
+        ]
+      },
+      "properties": {
+        "name": "Portside Pub",
+        "type": 51
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.017635345459,
+          6.76316881176758
+        ]
+      },
+      "properties": {
+        "name": "Southern Belle Motel",
+        "type": 47
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5271224975586,
+          -9.49684238427734
+        ]
+      },
+      "properties": {
+        "name": "KMAX Transmission",
+        "type": 39
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8800315856934,
+          -4.32562255859375
+        ]
+      },
+      "properties": {
+        "name": "Big B's Rest Stop",
+        "type": 24
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.5287590026855,
+          -34.0410575866699
+        ]
+      },
+      "properties": {
+        "name": "Unfinished Mansion",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9453125,
+          -39.5
+        ]
+      },
+      "properties": {
+        "name": "Glassed Cavern",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8486289978027,
+          3.46546697607422
+        ]
+      },
+      "properties": {
+        "name": "Tanagra Town",
+        "type": 9
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.75841331469727,
+          43.1574783325195
+        ]
+      },
+      "properties": {
+        "name": "Toxic Dried Lakebed",
+        "type": 36
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1743698120117,
+          6.5243711472168
+        ]
+      },
+      "properties": {
+        "name": "Abandoned Waste Dump",
+        "type": 0
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0611572265625,
+          14.2603778837891
+        ]
+      },
+      "properties": {
+        "name": "Crashed Plane",
+        "type": 15
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5074682236328,
+          33.461009979248
+        ]
+      },
+      "properties": {
+        "name": "Site Bravo",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.95703125,
+          35.16796875
+        ]
+      },
+      "properties": {
+        "name": "Sunnytop Ski Lanes Base Lodge",
+        "type": 75
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4119262695313,
+          33.7338371276855
+        ]
+      },
+      "properties": {
+        "name": "Tyler County Dirt Track",
+        "type": 17
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.3615446091309,
+          42.2122344970703
+        ]
+      },
+      "properties": {
+        "name": "Woods Estate",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.96839189526367,
+          33.6413993835449
+        ]
+      },
+      "properties": {
+        "name": "Poseidon Power Substation PX-03",
+        "type": 65
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9667549133301,
+          4.90614128125
+        ]
+      },
+      "properties": {
+        "name": "Poseidon Power Substation PX-01",
+        "type": 65
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.80354785913086,
+          -0.12538591015625
+        ]
+      },
+      "properties": {
+        "name": "Poseidon Power Substation PX-02",
+        "type": 65
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7984743117676,
+          -30.7879524230957
+        ]
+      },
+      "properties": {
+        "name": "Monongah Power Substation MZ-03",
+        "type": 65
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.13307905200195,
+          -13.3386316298828
+        ]
+      },
+      "properties": {
+        "name": "Monongah Power Substation MZ-02",
+        "type": 65
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6589908598633,
+          33.9643669128418
+        ]
+      },
+      "properties": {
+        "name": "Monongah Power Substation MZ-01",
+        "type": 65
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1163177490234,
+          -29.3536033630371
+        ]
+      },
+      "properties": {
+        "name": "Thunder Mountain Substation TM-02",
+        "type": 65
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5220603942871,
+          2.84597349169922
+        ]
+      },
+      "properties": {
+        "name": "Thunder Mountain Substation TM-01",
+        "type": 65
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.506778717041,
+          34.8650398254395
+        ]
+      },
+      "properties": {
+        "name": "Grafton Station",
+        "type": 64
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.06064891821289,
+          24.6415882109375
+        ]
+      },
+      "properties": {
+        "name": "Fast Travel Point: Morgantown Station",
+        "type": 64
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.6965827941895,
+          3.02500367163086
+        ]
+      },
+      "properties": {
+        "name": "Sutton Station",
+        "type": 64
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.0180377958984,
+          -8.50049304956055
+        ]
+      },
+      "properties": {
+        "name": "Charleston Station",
+        "type": 64
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.3720016479492,
+          -32.2702674865723
+        ]
+      },
+      "properties": {
+        "name": "Fast Travel Point: Welch Station",
+        "type": 64
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.2719621657715,
+          -28.6446876525879
+        ]
+      },
+      "properties": {
+        "name": "Lewisburg Station",
+        "type": 64
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5788307189941,
+          -36.6352615356445
+        ]
+      },
+      "properties": {
+        "name": "Watoga Station",
+        "type": 64
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43735551831055,
+          -32.3020210266113
+        ]
+      },
+      "properties": {
+        "name": "R&G Station",
+        "type": 64
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90602207177734,
+          -11.4136180878906
+        ]
+      },
+      "properties": {
+        "name": "Whitespring Station",
+        "type": 64
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9885063171387,
+          2.44744586938477
+        ]
+      },
+      "properties": {
+        "name": "Pleasant Valley Station",
+        "type": 64
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1927757263184,
+          31.8764266967773
+        ]
+      },
+      "properties": {
+        "name": "Sunnytop Station",
+        "type": 64
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.11328125,
+          -27.681640625
+        ]
+      },
+      "properties": {
+        "name": "Spruce Knob Campground",
+        "type": 25
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.29301357275391,
+          -25.3016643522949
+        ]
+      },
+      "properties": {
+        "name": "Spruce Knob",
+        "type": 82
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.81314003466797,
+          -14.2541646958008
+        ]
+      },
+      "properties": {
+        "name": "The Whitespring Service Entrance",
+        "type": 52
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.9382858276367,
+          46.7406272888184
+        ]
+      },
+      "properties": {
+        "name": "WV Lumber Co.",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -30.48046875,
+          -10.18359375
+        ]
+      },
+      "properties": {
+        "name": "Poseidon Energy Plant Yard",
+        "type": 65
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6201667785645,
+          -27.6933917998047
+        ]
+      },
+      "properties": {
+        "name": "Abandoned Mine Shaft 4",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.816276550293,
+          -23.0739059448242
+        ]
+      },
+      "properties": {
+        "name": "Hornwright Testing Site #04",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9007453918457,
+          -35.8600425720215
+        ]
+      },
+      "properties": {
+        "name": "Abandoned Mine Shaft 1",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0442485810547,
+          -30.7749824523926
+        ]
+      },
+      "properties": {
+        "name": "Abandoned Mine Shaft 3",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9900283813477,
+          -3.07750988012695
+        ]
+      },
+      "properties": {
+        "name": "Valley Galleria",
+        "type": 8
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.3069171904297,
+          3.32963252075195
+        ]
+      },
+      "properties": {
+        "name": "New River Gorge Bridge - East",
+        "type": 22
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -30.2705039978027,
+          -2.61061978344727
+        ]
+      },
+      "properties": {
+        "name": "New River Gorge Bridge - West",
+        "type": 22
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.5689544677734,
+          -36.5817108154297
+        ]
+      },
+      "properties": {
+        "name": "Hornwright Testing Site #03",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.6900844572754,
+          -27.2809867858887
+        ]
+      },
+      "properties": {
+        "name": "Abandoned Mine Shaft 6",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.826171875,
+          -33.630859375
+        ]
+      },
+      "properties": {
+        "name": "Abandoned Mine Shaft 2",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.875129699707,
+          18.7295055390625
+        ]
+      },
+      "properties": {
+        "name": "Dolly Sods Campground",
+        "type": 2
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.6781272888184,
+          -26.5177612304688
+        ]
+      },
+      "properties": {
+        "name": "Hornwright Air Cleanser Site #04",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7620601655273,
+          -3.54144549365234
+        ]
+      },
+      "properties": {
+        "name": "Site Alpha",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.6391172409668,
+          -13.315990447998
+        ]
+      },
+      "properties": {
+        "name": "Hornwright Summer Villa",
+        "type": 72
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.3674478530273,
+          -12.5882472990723
+        ]
+      },
+      "properties": {
+        "name": "Sugarmaple",
+        "type": 4
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.6965579985352,
+          -13.709529876709
+        ]
+      },
+      "properties": {
+        "name": "Burdette Manor",
+        "type": 72
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8128089904785,
+          31.0967636108398
+        ]
+      },
+      "properties": {
+        "name": "Abandoned Bunker",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2994079589844,
+          0.168086141357422
+        ]
+      },
+      "properties": {
+        "name": "Ransacked Bunker",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.5267601013184,
+          -37.4262008666992
+        ]
+      },
+      "properties": {
+        "name": "Hornwright Testing Site #02",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.7170886992187,
+          10.7979726791992
+        ]
+      },
+      "properties": {
+        "name": "Overseer's Camp",
+        "type": 2
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6044788359375,
+          -16.8338375092773
+        ]
+      },
+      "properties": {
+        "name": "Investigator's Cabin",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.78125,
+          -0.90625
+        ]
+      },
+      "properties": {
+        "name": "Schram Homestead",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.3400058745117,
+          12.5445833205566
+        ]
+      },
+      "properties": {
+        "name": "Arktos Pharma",
+        "type": 73
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.2058391569824,
+          -12.7437582016602
+        ]
+      },
+      "properties": {
+        "name": "Charleston",
+        "type": 1
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -30.9656963347168,
+          -15.0685243605957
+        ]
+      },
+      "properties": {
+        "name": "Charleston Landfill",
+        "type": 33
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4874172211914,
+          -9.21824455273437
+        ]
+      },
+      "properties": {
+        "name": "Wade Airport",
+        "type": 15
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4568462373047,
+          -14.118221282959
+        ]
+      },
+      "properties": {
+        "name": "Charleston Capitol Building",
+        "type": 87
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.4506702421875,
+          -11.6635398864746
+        ]
+      },
+      "properties": {
+        "name": "Charleston Trainyard",
+        "type": 56
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.4098892211914,
+          -11.4219722749023
+        ]
+      },
+      "properties": {
+        "name": "Hornwright Industrial Headquarters",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.521411836181641,
+          22.9807052612305
+        ]
+      },
+      "properties": {
+        "name": "Morgantown High School",
+        "type": 52
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6176567077637,
+          19.5631885527344
+        ]
+      },
+      "properties": {
+        "name": "Crevasse Dam",
+        "type": 94
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.91651582714844,
+          29.0459232329102
+        ]
+      },
+      "properties": {
+        "name": "Grafton Dam",
+        "type": 94
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1263198852539,
+          23.2698993681641
+        ]
+      },
+      "properties": {
+        "name": "Sons of Dane Compound",
+        "type": 8
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9015369414062,
+          32.0440254211426
+        ]
+      },
+      "properties": {
+        "name": "Sunnytop Ski Lanes",
+        "type": 75
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7416534423828,
+          -5.91169166552734
+        ]
+      },
+      "properties": {
+        "name": "Dabney Homestead",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1414642333984,
+          44.3969192504883
+        ]
+      },
+      "properties": {
+        "name": "Converted Munitions Factory",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7075405119629,
+          -12.6484212875977
+        ]
+      },
+      "properties": {
+        "name": "Emmett Mt. Disposal Site",
+        "type": 38
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.124474972412109,
+          -37.7993431091309
+        ]
+      },
+      "properties": {
+        "name": "Federal Disposal Field HZ-21",
+        "type": 38
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5773878098145,
+          27.2025279997559
+        ]
+      },
+      "properties": {
+        "name": "Wilson Brother's Auto Repair",
+        "type": 47
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6128273010254,
+          -14.8009338378906
+        ]
+      },
+      "properties": {
+        "name": "West Tek Research Center",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.328125,
+          10.52734375
+        ]
+      },
+      "properties": {
+        "name": "Wendigo Cave",
+        "type": 0
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.2382164001465,
+          -32.6550941467285
+        ]
+      },
+      "properties": {
+        "name": "Welch",
+        "type": 9
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.28034496313477,
+          47.3574905395508
+        ]
+      },
+      "properties": {
+        "name": "Wavy Willard's Water Park",
+        "type": 71
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65668058398438,
+          -39.1212272644043
+        ]
+      },
+      "properties": {
+        "name": "Vault 96",
+        "type": 70
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.3327350615234,
+          22.9539012910156
+        ]
+      },
+      "properties": {
+        "name": "Vault 76",
+        "type": 68
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4384918212891,
+          33.4927062988281
+        ]
+      },
+      "properties": {
+        "name": "Vault 94",
+        "type": 69
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.5125637053223,
+          16.9961776733398
+        ]
+      },
+      "properties": {
+        "name": "Gilman Lumber Mill",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.5706748962402,
+          24.3814487456055
+        ]
+      },
+      "properties": {
+        "name": "North Kanawha Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.9468078613281,
+          34.8587684631348
+        ]
+      },
+      "properties": {
+        "name": "Tyler County Fairgrounds",
+        "type": 71
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.627124786377,
+          11.0284023286133
+        ]
+      },
+      "properties": {
+        "name": "Treehouse Village",
+        "type": 9
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.09375047680664,
+          -12.5703125
+        ]
+      },
+      "properties": {
+        "name": "The Whitespring Golf Club",
+        "type": 19
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.14666414257812,
+          -15.7162151335449
+        ]
+      },
+      "properties": {
+        "name": "Whitespring Bunker",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.62675035009766,
+          -12.8931360244141
+        ]
+      },
+      "properties": {
+        "name": "The Whitespring Resort",
+        "type": 96
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.878877878173828,
+          33.6590156555176
+        ]
+      },
+      "properties": {
+        "name": "Pioneer Scout Camp",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.6730365751953,
+          -18.2421646118164
+        ]
+      },
+      "properties": {
+        "name": "The Rusty Pick",
+        "type": 47
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.703592300293,
+          5.97126388549805
+        ]
+      },
+      "properties": {
+        "name": "Sutton",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7479629516602,
+          0.348192930175781
+        ]
+      },
+      "properties": {
+        "name": "Sunday Brothers' Cabin",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1313972473145,
+          -9.54550552368164
+        ]
+      },
+      "properties": {
+        "name": "Camp Venture",
+        "type": 8
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5811376572266,
+          -15.1311588286133
+        ]
+      },
+      "properties": {
+        "name": "Torrance House",
+        "type": 72
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2630891799316,
+          -9.41447067260742
+        ]
+      },
+      "properties": {
+        "name": "New Gad",
+        "type": 9
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3077430725098,
+          -10.7878828049316
+        ]
+      },
+      "properties": {
+        "name": "Summersville Docks",
+        "type": 35
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.857174873291,
+          -4.37978649145508
+        ]
+      },
+      "properties": {
+        "name": "Summersville",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0460815429688,
+          -3.71200132373047
+        ]
+      },
+      "properties": {
+        "name": "Sugar Grove",
+        "type": 57
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6106605529785,
+          25.4320545195312
+        ]
+      },
+      "properties": {
+        "name": "Monongah Overlook",
+        "type": 82
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2318161875,
+          4.48436498632813
+        ]
+      },
+      "properties": {
+        "name": "White Powder Winter Sports",
+        "type": 75
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.15625,
+          12.96875
+        ]
+      },
+      "properties": {
+        "name": "Seneca Rocks",
+        "type": 7
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1390533447266,
+          -5.87513685229492
+        ]
+      },
+      "properties": {
+        "name": "Kanawha County Cemetery",
+        "type": 27
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8504676818848,
+          -15.8441772460938
+        ]
+      },
+      "properties": {
+        "name": "RobCo Research Center",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.4788036347656,
+          18.4081344604492
+        ]
+      },
+      "properties": {
+        "name": "Landview Lighthouse",
+        "type": 89
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8040523527832,
+          32.5973129272461
+        ]
+      },
+      "properties": {
+        "name": "Pumpkin House",
+        "type": 83
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.2227745056152,
+          -7.28014993676758
+        ]
+      },
+      "properties": {
+        "name": "World's Largest Teapot",
+        "type": 77
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5430603027344,
+          36.3280410766602
+        ]
+      },
+      "properties": {
+        "name": "Red Rocket Mega Stop",
+        "type": 24
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.73767852783203,
+          -13.4637451171875
+        ]
+      },
+      "properties": {
+        "name": "Whitespring Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5534400939941,
+          -22.0626068115234
+        ]
+      },
+      "properties": {
+        "name": "Ranger District Office",
+        "type": 52
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.8571815490723,
+          -7.88614940649414
+        ]
+      },
+      "properties": {
+        "name": "Ohio River Adventures",
+        "type": 35
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.1226711271973,
+          9.17311954492187
+        ]
+      },
+      "properties": {
+        "name": "Relay Tower 6",
+        "type": 39
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.3437957763672,
+          -17.7371883393555
+        ]
+      },
+      "properties": {
+        "name": "Relay Tower 5",
+        "type": 39
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7166862487793,
+          21.5199947358398
+        ]
+      },
+      "properties": {
+        "name": "Relay Tower 4",
+        "type": 39
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.1104555129395,
+          -20.7052745820313
+        ]
+      },
+      "properties": {
+        "name": "Relay Tower 3",
+        "type": 39
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54187810424805,
+          8.44776248925781
+        ]
+      },
+      "properties": {
+        "name": "Relay Tower 2",
+        "type": 39
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9003009794922,
+          -3.12044072143555
+        ]
+      },
+      "properties": {
+        "name": "Camp McClintock",
+        "type": 6
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1244468688965,
+          18.2752723693848
+        ]
+      },
+      "properties": {
+        "name": "Point Pleasant",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.58003854760742,
+          14.1699094772949
+        ]
+      },
+      "properties": {
+        "name": "Bolton Greens",
+        "type": 19
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.681396484375,
+          -0.776310682373047
+        ]
+      },
+      "properties": {
+        "name": "Orwell Orchards",
+        "type": 25
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4110469819336,
+          18.0450534819336
+        ]
+      },
+      "properties": {
+        "name": "Observatory",
+        "type": 34
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.055471420166,
+          40.2348785400391
+        ]
+      },
+      "properties": {
+        "name": "Palace of the Winding Path",
+        "type": 92
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.7907943725586,
+          3.13417840014648
+        ]
+      },
+      "properties": {
+        "name": "New River Gorge Resort",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.51700496679688,
+          41.790943145752
+        ]
+      },
+      "properties": {
+        "name": "Philippi Battlefield Cemetery",
+        "type": 27
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0190658569336,
+          24.0222263334961
+        ]
+      },
+      "properties": {
+        "name": "Thunder Mountain Power Plant",
+        "type": 74
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.28003716479492,
+          -5.22767782202148
+        ]
+      },
+      "properties": {
+        "name": "New Appalachian Central Trainyard",
+        "type": 86
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.82017409790039,
+          -24.4994335175781
+        ]
+      },
+      "properties": {
+        "name": "Mountainside Bed & Breakfast",
+        "type": 79
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.0570621489258,
+          13.1348857878418
+        ]
+      },
+      "properties": {
+        "name": "Alpine River Cabins",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.3689994812012,
+          -29.6874008178711
+        ]
+      },
+      "properties": {
+        "name": "Mount Blair Trainyard",
+        "type": 86
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.94921875,
+          -24.865234375
+        ]
+      },
+      "properties": {
+        "name": "Mount Blair",
+        "type": 90
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.73262214648437,
+          36.5409851074219
+        ]
+      },
+      "properties": {
+        "name": "Mountain Region",
+        "type": 11
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.705078125,
+          20.634765625
+        ]
+      },
+      "properties": {
+        "name": "Monongah",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.643885672119141,
+          -29.5559749602051
+        ]
+      },
+      "properties": {
+        "name": "R & G Processing Services",
+        "type": 29
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.54296875,
+          18.072265625
+        ]
+      },
+      "properties": {
+        "name": "Monongah Power Plant",
+        "type": 74
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1651306152344,
+          27.127799987793
+        ]
+      },
+      "properties": {
+        "name": "Monongah Mine",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.04779338842773,
+          -20.2327594755859
+        ]
+      },
+      "properties": {
+        "name": "Miners Monument",
+        "type": 11
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38623428344727,
+          11.7967100144043
+        ]
+      },
+      "properties": {
+        "name": "Greg's Mine Supply",
+        "type": 52
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3499984741211,
+          -9.23357772827148
+        ]
+      },
+      "properties": {
+        "name": "Middle Mountain Cabins",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.6701812744141,
+          7.00240612036133
+        ]
+      },
+      "properties": {
+        "name": "Green Country Lodge",
+        "type": 52
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8325309753418,
+          6.92278861987305
+        ]
+      },
+      "properties": {
+        "name": "Sunshine Meadows Industrial Farm",
+        "type": 78
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.1386528015137,
+          -21.9598159790039
+        ]
+      },
+      "properties": {
+        "name": "Uncanny Caverns",
+        "type": 0
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.6410522460938,
+          -27.2466659545898
+        ]
+      },
+      "properties": {
+        "name": "Lewisburg",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.9187269211426,
+          -6.31645917895508
+        ]
+      },
+      "properties": {
+        "name": "Lakeside Cabins",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.10593271264648,
+          31.1031589506836
+        ]
+      },
+      "properties": {
+        "name": "Eastern Regional Penitentiary",
+        "type": 26
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8699388503418,
+          20.6205501557617
+        ]
+      },
+      "properties": {
+        "name": "Mama Dolce's Food Processing",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.55004358300781,
+          22.3640804291992
+        ]
+      },
+      "properties": {
+        "name": "Morgantown Trainyard",
+        "type": 86
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8107619284668,
+          24.7346801757813
+        ]
+      },
+      "properties": {
+        "name": "Morgantown Regional Airfield",
+        "type": 15
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.0503902434082,
+          -13.6072511672363
+        ]
+      },
+      "properties": {
+        "name": "AVR Medical Center",
+        "type": 28
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4849662780762,
+          -24.7705841064453
+        ]
+      },
+      "properties": {
+        "name": "Hornwright Air Cleanser Site #02",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.890625,
+          -36.390625
+        ]
+      },
+      "properties": {
+        "name": "Hornwright Estate",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.9901828764648,
+          -39.2812576293945
+        ]
+      },
+      "properties": {
+        "name": "Garrahan Excavations Headquarters",
+        "type": 8
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1405811308594,
+          -39.1994552612305
+        ]
+      },
+      "properties": {
+        "name": "Relay Tower EL-B1-02",
+        "type": 39
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.5952167509766,
+          -24.9600257873535
+        ]
+      },
+      "properties": {
+        "name": "Burning Mine",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.953125,
+          -37.15625
+        ]
+      },
+      "properties": {
+        "name": "Garrahan Estate",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4733619689941,
+          -20.4157180786133
+        ]
+      },
+      "properties": {
+        "name": "Bootlegger's Shack",
+        "type": 79
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95803582666016,
+          20.0368824003906
+        ]
+      },
+      "properties": {
+        "name": "Vault-Tec University",
+        "type": 14
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7969818115234,
+          -33.4356880187988
+        ]
+      },
+      "properties": {
+        "name": "Watoga Civic Center",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1676368713379,
+          -29.4020977019043
+        ]
+      },
+      "properties": {
+        "name": "Sal's Grinders",
+        "type": 47
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5624961853027,
+          -34.5546836853027
+        ]
+      },
+      "properties": {
+        "name": "Watoga Transit Hub",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4267654418945,
+          -34.4335517883301
+        ]
+      },
+      "properties": {
+        "name": "Watoga Emergency Services",
+        "type": 28
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3964767456055,
+          -35.787109375
+        ]
+      },
+      "properties": {
+        "name": "Watoga High School",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.287109375,
+          -33.958984375
+        ]
+      },
+      "properties": {
+        "name": "AMS Corporate Headquarters",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1171875,
+          -34.501953125
+        ]
+      },
+      "properties": {
+        "name": "Watoga Municipal Center",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2578086853027,
+          -33.5234451293945
+        ]
+      },
+      "properties": {
+        "name": "Watoga Shopping Plaza",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5713520048828,
+          16.6012954711914
+        ]
+      },
+      "properties": {
+        "name": "Isolated Cabin",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5681629179688,
+          -4.57627487182617
+        ]
+      },
+      "properties": {
+        "name": "Big Fred's BBQ Shack",
+        "type": 79
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.645848512695313,
+          44.643684387207
+        ]
+      },
+      "properties": {
+        "name": "Black Bear Lodge",
+        "type": 47
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.037109375,
+          -22.138671875
+        ]
+      },
+      "properties": {
+        "name": "Huntersville",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1752014160156,
+          30.7953243254395
+        ]
+      },
+      "properties": {
+        "name": "Hunter's Shack",
+        "type": 79
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.03609943383789,
+          1.56276810180664
+        ]
+      },
+      "properties": {
+        "name": "Tygart Water Treatment",
+        "type": 29
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.5096015930176,
+          5.59610700610352
+        ]
+      },
+      "properties": {
+        "name": "Hillfolk Hotdogs",
+        "type": 80
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3817958830566,
+          44.8530349731445
+        ]
+      },
+      "properties": {
+        "name": "Hemlock Holes",
+        "type": 19
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3853988647461,
+          0.778847277099609
+        ]
+      },
+      "properties": {
+        "name": "Harpers Ferry",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4978580473633,
+          -10.5274648666992
+        ]
+      },
+      "properties": {
+        "name": "National Radio Astronomy Research Center",
+        "type": 57
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.7265625,
+          36.46875
+        ]
+      },
+      "properties": {
+        "name": "Grafton",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.51028203955078,
+          32.2771415710449
+        ]
+      },
+      "properties": {
+        "name": "Grafton Steel",
+        "type": 3
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.582649230957,
+          22.3606643676758
+        ]
+      },
+      "properties": {
+        "name": "Gorge Junkyard",
+        "type": 33
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3324737548828,
+          37.2184448242188
+        ]
+      },
+      "properties": {
+        "name": "Freddy Fear's House of Scares",
+        "type": 47
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8924560546875,
+          -34.9134063720703
+        ]
+      },
+      "properties": {
+        "name": "Flooded Trainyard",
+        "type": 86
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7083740234375,
+          -33.7178230285645
+        ]
+      },
+      "properties": {
+        "name": "Lucky Hole Mine",
+        "type": 0
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.51385641088867,
+          48.492317199707
+        ]
+      },
+      "properties": {
+        "name": "Crashed Space Station",
+        "type": 91
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8246002197266,
+          5.93497323999023
+        ]
+      },
+      "properties": {
+        "name": "Berkeley Springs West",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3589725493164,
+          6.74815845483398
+        ]
+      },
+      "properties": {
+        "name": "Berkeley Springs",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7506237028809,
+          -15.806016921875
+        ]
+      },
+      "properties": {
+        "name": "Kerwood Mine",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -30.3909492492676,
+          -3.51934480664063
+        ]
+      },
+      "properties": {
+        "name": "Cow Spots Creamery",
+        "type": 84
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24539327612305,
+          40.5933151245117
+        ]
+      },
+      "properties": {
+        "name": "Clarksburg Shooting Club",
+        "type": 52
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.84113597875977,
+          8.09361934667969
+        ]
+      },
+      "properties": {
+        "name": "Helvetia",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.1706886291504,
+          -2.91821384423828
+        ]
+      },
+      "properties": {
+        "name": "Billings Homestead",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.00988006591797,
+          41.0120849609375
+        ]
+      },
+      "properties": {
+        "name": "Clarksburg",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8729362487793,
+          47.2823448181152
+        ]
+      },
+      "properties": {
+        "name": "Prickett's Fort",
+        "type": 49
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6651611328125,
+          -10.3282814025879
+        ]
+      },
+      "properties": {
+        "name": "Lewis & Sons Farming Supply",
+        "type": 79
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0120391845703,
+          20.9964580537109
+        ]
+      },
+      "properties": {
+        "name": "Dolly Sods Wilderness",
+        "type": 25
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.62109375,
+          -21.642578125
+        ]
+      },
+      "properties": {
+        "name": "Devil's Backbone",
+        "type": 7
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9431915283203,
+          10.5592231750488
+        ]
+      },
+      "properties": {
+        "name": "Haven Church",
+        "type": 18
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.072265625,
+          -29.451171875
+        ]
+      },
+      "properties": {
+        "name": "Cranberry Glade",
+        "type": 36
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.556806564209,
+          -32.5362358093262
+        ]
+      },
+      "properties": {
+        "name": "Hornwright Air Cleanser Site #03",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.4053001403809,
+          -19.1498565673828
+        ]
+      },
+      "properties": {
+        "name": "Hornwright Air Cleanser Site #01",
+        "type": 48
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9848251342773,
+          15.3282318115234
+        ]
+      },
+      "properties": {
+        "name": "Dyer Chemical",
+        "type": 29
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57421875,
+          -36.49609375
+        ]
+      },
+      "properties": {
+        "name": "Big Bend Tunnel East",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1880741118164,
+          35.6366729736328
+        ]
+      },
+      "properties": {
+        "name": "North Mountain Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5449562072754,
+          4.23594570166016
+        ]
+      },
+      "properties": {
+        "name": "Central Mountain Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.8355178833008,
+          4.20898532861328
+        ]
+      },
+      "properties": {
+        "name": "East Kanawha Lookout",
+        "type": 81
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.130859375,
+          -35.51171875
+        ]
+      },
+      "properties": {
+        "name": "Watoga Estates",
+        "type": 88
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2644481660156,
+          -17.1435680390625
+        ]
+      },
+      "properties": {
+        "name": "Riverside Manor",
+        "type": 72
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.54314231884766,
+          3.46782827368164
+        ]
+      },
+      "properties": {
+        "name": "Top of the World",
+        "type": 93
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5690422058105,
+          6.33491849902344
+        ]
+      },
+      "properties": {
+        "name": "Pleasant Valley Cabins",
+        "type": 61
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5645427705078,
+          3.8470616340332
+        ]
+      },
+      "properties": {
+        "name": "Pleasant Valley Ski Resort",
+        "type": 75
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.8566780090332,
+          -18.9682540893555
+        ]
+      },
+      "properties": {
+        "name": "Camden Park",
+        "type": 71
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.1884498596191,
+          -11.4668731689453
+        ]
+      },
+      "properties": {
+        "name": "Overlook Cabin",
+        "type": 85
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.763671875,
+          -29.494140625
+        ]
+      },
+      "properties": {
+        "name": "Big Bend Tunnel West",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.6833209990234,
+          5.06729459765625
+        ]
+      },
+      "properties": {
+        "name": "Flatwoods",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.6121768950195,
+          4.74732303613281
+        ]
+      },
+      "properties": {
+        "name": "Vault-Tec Agricultural Research Center",
+        "type": 78
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9400901794434,
+          -30.041067123291
+        ]
+      },
+      "properties": {
+        "name": "Beckley",
+        "type": 45
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2822799682617,
+          -31.4607810974121
+        ]
+      },
+      "properties": {
+        "name": "Appalachian Antiques",
+        "type": 76
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8434677124023,
+          27.8636360168457
+        ]
+      },
+      "properties": {
+        "name": "Animal Cave",
+        "type": 0
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.0627307890625,
+          -29.5000095366211
+        ]
+      },
+      "properties": {
+        "name": "Lake Reynolds",
+        "type": 71
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.505859375,
+          -33.90625
+        ]
+      },
+      "properties": {
+        "name": "Watoga",
+        "type": 1
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.7086505888672,
+          -16.7092742919922
+        ]
+      },
+      "properties": {
+        "name": "Charleston Fire Department",
+        "type": 52
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4876098632813,
+          -14.7477016447754
+        ]
+      },
+      "properties": {
+        "name": "The General's Steakhouse",
+        "type": 47
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.5861053466797,
+          -13.0596933364258
+        ]
+      },
+      "properties": {
+        "name": "Kanawha Nuka-Cola Plant",
+        "type": 97
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.2344093322754,
+          -10.0028743745117
+        ]
+      },
+      "properties": {
+        "name": "Poseidon Energy Plant WV-06",
+        "type": 74
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -30.533203125,
+          43.216796875
+        ]
+      },
+      "properties": {
+        "name": "Aaronholt Homestead",
+        "type": 23
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.134765625,
+          -32.12890625
+        ]
+      },
+      "properties": {
+        "name": "Fort Defiance",
+        "type": 26
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.7787704467773,
+          26.4423923491211
+        ]
+      },
+      "properties": {
+        "name": "Black Mountain Ordnance Works",
+        "type": 38
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87712192529297,
+          -11.3574657441406
+        ]
+      },
+      "properties": {
+        "name": "Blackwater Mine",
+        "type": 37
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3744697570801,
+          -22.7015037536621
+        ]
+      },
+      "properties": {
+        "name": "Abandoned Bog Town",
+        "type": 9
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5438804626465,
+          -9.16460418701172
+        ]
+      },
+      "properties": {
+        "name": "National Isolated Radio Array",
+        "type": 57
+      }
+    }
+  ]
+}

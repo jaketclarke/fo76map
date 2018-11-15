@@ -1,0 +1,313 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.6495056152344,
+					-10.3229532241211
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.501148223877,
+					36.4136047363281
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.2714500427246,
+					-22.6470832824707
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.1875448227539,
+					44.5492553710938
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.2884693144531,
+					-8.78345584863281
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.751953125,
+					18.716796875
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.9362411499023,
+					18.3343276977539
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.178860887939453,
+					-37.5323066711426
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.44588947290039,
+					-25.2236938476563
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.2424926757813,
+					-5.79786634448242
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.4353103637695,
+					-2.08940529833984
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.3028297424316,
+					-14.9968461989746
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.7737464904785,
+					-31.0084629057617
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.7360668181152,
+					-25.3379554748535
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.0133914946289,
+					44.5282325744629
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.6109390258789,
+					23.3394241333008
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.33788156518555,
+					31.3660316467285
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.778302192627,
+					21.9799537658691
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-38.3023147583008,
+					33.4483375549316
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.8992805480957,
+					6.20924377441406
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.8587312697754,
+					-6.37430524829102
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.4522361755371,
+					6.56306838989258
+				]
+			},
+			"properties": {
+				"name": "Public Workshop",
+				"type": 3921140
+			}
+		}
+	]
+}
