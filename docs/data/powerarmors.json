@@ -1,0 +1,649 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.9827909470215,
+					-29.4477195739746
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.2071437836914,
+					-7.23386955249023
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-20.0052032470703,
+					-24.3483543395996
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.8029956816406,
+					-20.2082195283203
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.6287460327148,
+					-25.7117519377441
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-27.404966354248,
+					-31.8558254240723
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-24.4031162260742,
+					-28.2588367460937
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.0177669523926,
+					-36.2295455932617
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.7025356291504,
+					-36.5689468383789
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-27.0394382475586,
+					-41.3997764587402
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.94345855712891,
+					31.465269088623
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.68537664404297,
+					21.9141635893555
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.26608657836914,
+					19.9740886689453
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-10.8837890625,
+					12.666015625
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-39.4198608398438,
+					-1.59671497338867
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.2408218383789,
+					-28.5511322021484
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.5366020202637,
+					-30.2603950500488
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-42.3626976013184,
+					-10.521053314209
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-45.3764953613281,
+					-30.5804901123047
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.4931640625,
+					46.2575759887695
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-43.2689437866211,
+					19.1714191435547
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					40.6464004516602,
+					-13.6656045913086
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.3129844665527,
+					-14.6146230698242
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.994140625,
+					-3.998046875
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.6516952514648,
+					-14.4830665588379
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.2189979553223,
+					-9.54305267333984
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.7532958984375,
+					-26.6203536987305
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					49.4371910095215,
+					-41.3436737060547
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					40.3358917236328,
+					-37.950870513916
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.7849082946777,
+					-38.6480445861816
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.442211151123,
+					-34.5807685852051
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.6699028015137,
+					-33.1026725769043
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.7330131530762,
+					-33.8899879455566
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.8466033935547,
+					-36.0720291137695
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.1033554077148,
+					20.2830295561523
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.1405563354492,
+					0.242415666503906
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.7422924042969,
+					-9.19079303735352
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.5173454284668,
+					-21.4739570617676
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.52415180200195,
+					-16.0189151762695
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.77947688110352,
+					-5.64566040039063
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.732421875,
+					-36.3828125
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					26.7971992492676,
+					-42.1199264526367
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.7209968566895,
+					-40.0629234313965
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.0718415678710937,
+					44.8839302062988
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					22.4247798920898,
+					24.1849479675293
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.85323071484375,
+					29.8347492216797
+				]
+			},
+			"properties": {
+				"name": "Power Armor",
+				"type": 106
+			}
+		}
+	]
+}

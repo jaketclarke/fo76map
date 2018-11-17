@@ -1,3 +1,5 @@
+L.AwesomeMarkers.Icon.prototype.options.prefix = 'fa';
+
 function ll2m(latlng) {
   return new L.LatLng((latlng.lng + 0.5) * 1.81, latlng.lat * 1.81)
 };
@@ -16,7 +18,11 @@ var militaryLayer = L.tileLayer('militarytiles/{z}/{x}/{y}.jpg', {
 
 var overlays = {
   mapmarkers: new L.layerGroup(),
-  workshops: new L.layerGroup()
+  workshops: new L.layerGroup(),
+  bobbleheads: new L.layerGroup(),
+  powerarmors: new L.layerGroup(),
+  fusioncores: new L.layerGroup(),
+  hardpoints: new L.layerGroup()
 };
 
 var map = L.map('map', {
@@ -33,7 +39,11 @@ L.control.layers({
   "Military": militaryLayer
 }, {
   "Map Markers": overlays['mapmarkers'],
-  "Public Workshops": overlays['workshops']
+  "Public Workshops": overlays['workshops'],
+  "Bobbleheads": overlays['bobbleheads'],
+  "Powerarmors": overlays['powerarmors'],
+  "Fusion Cores": overlays['fusioncores'],
+  "Deposits": overlays['hardpoints']
 }).addTo(map);
 
 L.control.mousePosition({
@@ -77,6 +87,108 @@ var icons = {};
 	});
 });
 
+/* Copper */
+icons[3517874] = new L.AwesomeMarkers.icon({
+	icon: 'cog',
+	iconColor: '#C88033',
+	markerColor: 'black'
+});
+/* Junk */
+icons[99270] = new L.AwesomeMarkers.icon({
+	icon: 'trash',
+	iconColor: 'white',
+	markerColor: 'black'
+});
+/* Black Titanium */
+icons[3517869] = new L.AwesomeMarkers.icon({
+	icon: 'cubes',
+	iconColor: 'white',
+	markerColor: 'black'
+});
+/* Uranium */
+icons[3517888] = new L.AwesomeMarkers.icon({
+	icon: 'exclamation-circle',
+	iconColor: '#00FF00',
+	markerColor: 'black'
+});
+/* Acid */
+icons[1629307] = new L.AwesomeMarkers.icon({
+	icon: 'flask',
+	iconColor: '#8FFE09',
+	markerColor: 'black'
+});
+/* Wood */
+icons[2859477] = new L.AwesomeMarkers.icon({
+	icon: 'tree',
+	iconColor: 'green',
+	markerColor: 'black'
+});
+/* Oil */
+icons[1635503] = new L.AwesomeMarkers.icon({
+	icon: 'tint',
+	iconColor: 'aqua',
+	markerColor: 'black'
+});
+/* Crystal */
+icons[3302443] = new L.AwesomeMarkers.icon({
+	icon: 'diamond',
+	iconColor: 'white',
+	markerColor: 'black'
+});
+/* Gravel */
+icons[1635590] = new L.AwesomeMarkers.icon({
+	icon: 'th',
+	iconColor: 'white',
+	markerColor: 'black'
+});
+/* Phosphate */
+icons[3952139] = new L.AwesomeMarkers.icon({
+	icon: 'fire',
+	iconColor: 'red',
+	markerColor: 'black'
+});
+/* Coal */
+icons[3517872] = new L.AwesomeMarkers.icon({
+	icon: 'cog',
+	iconColor: 'white',
+	markerColor: 'black'
+});
+/* Gold */
+icons[3517877] = new L.AwesomeMarkers.icon({
+	icon: 'trophy',
+	iconColor: '#ffd123',
+	markerColor: 'black'
+});
+/* Silver */
+icons[3517885] = new L.AwesomeMarkers.icon({
+	icon: 'trophy',
+	iconColor: '#c0c0c0',
+	markerColor: 'black'
+});
+/* Iron */
+icons[3517879] = new L.AwesomeMarkers.icon({
+	icon: 'bars',
+	iconColor: 'white',
+	markerColor: 'black'
+});
+/* Lead */
+icons[3517882] = new L.AwesomeMarkers.icon({
+	icon: 'pencil',
+	iconColor: 'white',
+	markerColor: 'black'
+});
+/* Aluminium */
+icons[3517865] = new L.AwesomeMarkers.icon({
+	icon: 'paperclip',
+	iconColor: 'white',
+	markerColor: 'black'
+});
+
+
+
+
+
+
 function loadJSON(name, res) {
   L.geoJSON(res.response, {
 	pointToLayer: function (gjp, ll) {
@@ -84,14 +196,45 @@ function loadJSON(name, res) {
 	  if (gjp.properties.type !== undefined && icons[gjp.properties.type]) {
 		icon = icons[gjp.properties.type];
 	  }
-	  return L.marker(new L.LatLng(ll.lat * 1.81, ll.lng * 1.81), {
+	  var iconColor = 'white';
+	  if (gjp.properties.icon_color !== undefined) {
+		iconColor = gjp.properties.icon_color;
+	  }
+	  var markerColor = 'blue';
+	  if (gjp.properties.marker_color !== undefined) {
+		markerColor = gjp.properties.marker_color;
+	  }
+	  if (gjp.properties.icon !== undefined) {
+		icon = L.AwesomeMarkers.icon({
+			icon: gjp.properties.icon,
+			iconColor: iconColor,
+			markerColor: markerColor
+		});
+	  }
+	  return L.marker(ll, {
 		icon: icon
 	  }).bindPopup(gjp.properties.name);
+	},
+	coordsToLatLng(coords) {
+		return new L.LatLng(coords[1] * 1.81, coords[0] * 1.81);
 	}
   }).addTo(overlays[name]);
 }
 
-['mapmarkers', 'workshops'].forEach(function (name) {
+/*function loadBorder() {
+  L.geoJSON(this.response, {
+	coordsToLatLng(coords) {
+		return new L.LatLng(coords[1] * 1.81, coords[0] * 1.81);
+	}
+  }).addTo(map);
+}
+var req = new XMLHttpRequest();
+req.responseType = 'json';
+req.addEventListener('load', loadBorder);
+req.open('GET', 'data/regions.json');
+req.send();*/
+
+['mapmarkers', 'workshops', 'bobbleheads', 'powerarmors', 'fusioncores', 'hardpoints'].forEach(function (name) {
   var req = new XMLHttpRequest();
   req.responseType = 'json';
   req.addEventListener('load', function () {

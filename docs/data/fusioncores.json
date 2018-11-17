@@ -1,0 +1,1055 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.9732276796875,
+					-12.5682001113281
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.32365608203125,
+					-26.6284465788574
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.2027816772461,
+					-29.7455787658691
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.5107650756836,
+					-7.64895105371094
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-19.5885734558105,
+					-20.6701107026367
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.5913848876953,
+					-29.305830001709
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.1513824462891,
+					-2.42275762548828
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.1698188781738,
+					-10.2280340195313
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.8012466430664,
+					-21.7814178466797
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.7599239350586,
+					-33.7610206604004
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-27.5414962768555,
+					-41.0730209350586
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-10.6824769973145,
+					36.8965911865234
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.754388809082,
+					44.8774223327637
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-10.7455835341797,
+					12.7093172072754
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.1466884611816,
+					9.14338016503906
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-35.7356224060059,
+					-23.2519435883789
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.1393928527832,
+					-25.0464344023437
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.9025497436523,
+					-35.7041816711426
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.2828254699707,
+					47.2356262207031
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.4650955200195,
+					26.3640251159668
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.09765625,
+					-14.68359375
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.5461959838867,
+					-4.83994865429688
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.6324729919434,
+					-10.4423532485352
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.248462677002,
+					-21.3263416289062
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					49.4528465270996,
+					-41.4201965332031
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.615608215332,
+					-38.334342956543
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.7335815429688,
+					20.9801330566406
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.178840637207,
+					14.3266820908203
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.4958915710449,
+					11.1305990219727
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.3722724914551,
+					-14.2342185974121
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.2541275024414,
+					-42.5191841125488
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.8121967314453,
+					-40.4426536560059
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.9761619567871,
+					-35.1452369689941
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.2120504379883,
+					41.2933349609375
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.59667158129883,
+					49.2097473144531
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.6592178344727,
+					21.5131053925781
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.4101638793945,
+					-34.5786170959473
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					49.0524101257324,
+					-15.6144819260254
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.2628898620605,
+					46.3284683227539
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.5913906098633,
+					-15.4645223618164
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.60112714770508,
+					48.2040100097656
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.4337444306641,
+					-10.2054977416992
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.1746683120117,
+					41.2491607666016
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.4268798828125,
+					44.7125205993652
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.8096828459473,
+					-27.843744277832
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.7064399719238,
+					-20.0061836242676
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.5148735046387,
+					-29.3171653747559
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.0290145874023,
+					-30.276662826416
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.8635520935059,
+					-22.7772579194336
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.50865030297852,
+					24.941333770752
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.5066661835938,
+					-31.4486713408203
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.60357952124023,
+					20.0693969726563
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.1127653122559,
+					-36.4302864074707
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.80679893481445,
+					32.5102310180664
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.49547767626953,
+					29.3966522216797
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.787540435791,
+					-34.3758163452148
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.245296359130859,
+					-37.0858268737793
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					42.9755363464355,
+					16.1657733916016
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.4072704316406,
+					-33.5675430297852
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.19996118554687,
+					40.8215179443359
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-43.4549369812012,
+					-19.4830131530762
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-43.9292411804199,
+					-17.9900512695313
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-39.1695556640625,
+					-20.0659408569336
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					49.5949630737305,
+					16.9575691223145
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.6759586333008,
+					-17.9874858857422
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-10.8134355544434,
+					12.2607021333008
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.6816444396973,
+					-36.6238708496094
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.5856819152832,
+					-29.9245223999023
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3721027373047,
+					-22.8328838349609
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-26.5682849882812,
+					-19.2198486328125
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.2460136413574,
+					15.434247970459
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.7139101027832,
+					35.9144058227539
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.8550987243652,
+					-26.2483253479004
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.9301300048828,
+					-13.2925453186035
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.2192440031738,
+					-4.41976833349609
+				]
+			},
+			"properties": {
+				"name": "Fusion Core",
+				"icon": "battery-half"
+			}
+		}
+	]
+}

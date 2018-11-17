@@ -1,0 +1,4415 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.90170145043945,
+					-5.84339046484375
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.22718763354492,
+					-3.34374713891602
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.70321512231445,
+					-0.644003033691406
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.95597600927734,
+					-6.93746185302734
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.3092134296875,
+					-5.56884336474609
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.12291240698242,
+					-10.4634771347656
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.710505545166016,
+					-22.6329555512695
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.8794779777832,
+					-27.4336032866211
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.2398395537109,
+					-6.93389034277344
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.1806230544434,
+					-6.32737779614258
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.1259422302246,
+					-0.947217345214844
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.5635108947754,
+					-6.3745908737793
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.9512424467773,
+					-2.79157733911133
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.6473379135742,
+					-7.54461812963867
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-10.742621421875,
+					-6.69344234472656
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.7532653808594,
+					-10.5221185683594
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.7423801420898,
+					-17.7255992890625
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-8.34084606176758,
+					-21.4682025908203
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.816520690918,
+					-30.5538997648926
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.6401615141602,
+					-26.4180030822754
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.674560546875,
+					-2.44432854663086
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.8219871520996,
+					-6.83250188818359
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.2925415039063,
+					-0.691925585205078
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.5305538178711,
+					-9.6125602722168
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.824457168457,
+					-8.85478782666016
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.2111129760742,
+					-14.79511165625
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.0966644287109,
+					-20.8213825224609
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.8352298735352,
+					-17.9850234985352
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-20.1509284973145,
+					-23.1685543061523
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.4452991484375,
+					-28.1950073242188
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.4949264526367,
+					-25.311882019043
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.8328113554687,
+					-24.2655906677246
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.3552989958496,
+					-31.294126510498
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.3008193969727,
+					-27.6146030424805
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.8463230131836,
+					-4.33083868017578
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.485034942627,
+					-5.39369106298828
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.102912902832,
+					-15.1852865219727
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.6818389892578,
+					-15.1675882338867
+				]
+			},
+			"properties": {
+				"name": "Junk Pile",
+				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.1985912321777,
+					-14.885313987793
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.2261714934082,
+					-10.7216148376465
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.7044792175293,
+					-15.3543405532227
+				]
+			},
+			"properties": {
+				"name": "Junk Pile",
+				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.6260147094727,
+					-14.5543270109863
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.9352073669434,
+					-14.3569231032715
+				]
+			},
+			"properties": {
+				"name": "Junk Pile",
+				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.8579998015137,
+					-11.077940940918
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.0606212614746,
+					-10.4235572814941
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-26.8832092285156,
+					-15.6861743925781
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.1874027250977,
+					-22.2020568847656
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.732292175293,
+					-17.9517288208008
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.2319831848145,
+					-16.3764858244629
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.4888172148437,
+					-23.3658542631836
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-25.2383193969727,
+					-20.4554328918457
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.7001018522949,
+					-28.3398132324219
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.2159080505371,
+					-24.6251544951172
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.5177688598633,
+					-27.2097320556641
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-27.2295970915527,
+					-30.7671813964844
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-27.0637092590332,
+					-24.3825225830078
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-26.4470844267578,
+					-28.3645248413086
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-24.2301979064941,
+					-29.6505756376953
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-24.7382202148438,
+					-26.7500190734863
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.63285446166992,
+					-37.1237640380859
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.7191908359375,
+					-36.1884765625
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.359632194091797,
+					-38.5254325866699
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.388671875,
+					-38.287109375
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.544570267089844,
+					-38.1550102233887
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.42016744604492,
+					-40.4768104553223
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.7649230957031,
+					-37.1884498596191
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-10.3988189697266,
+					-41.360221862793
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.3167514799805,
+					-38.2095031738281
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.7436923979492,
+					-36.7761573791504
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.8285255432129,
+					-35.7189750671387
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.0917949677734,
+					-32.767448425293
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.0331783293457,
+					-33.2398681640625
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.2727642060547,
+					-41.0047988891602
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.7748260498047,
+					-37.7622489929199
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.6623249052734,
+					-32.351261138916
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.1309871672363,
+					-41.3357543945313
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-25.0785999296875,
+					-40.6181755065918
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.36885881420898,
+					48.1669540405273
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.43727707861328,
+					45.5134315490723
+				]
+			},
+			"properties": {
+				"name": "Junk Pile",
+				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.637638747802734,
+					42.9561233520508
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.630606174560547,
+					46.6065330505371
+				]
+			},
+			"properties": {
+				"name": "Junk Pile",
+				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.71567034716797,
+					35.6475677490234
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.89302921289062,
+					34.7151756286621
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.4740724562988,
+					44.8373565673828
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.1621475219727,
+					45.1832427978516
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.0923500061035,
+					41.5033493041992
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.2859544753418,
+					32.2832679748535
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.2777585983887,
+					39.5550994873047
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.2851257324219,
+					48.2862358093262
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.6593284606934,
+					32.4436149597168
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-19.0863056181641,
+					35.4550743103027
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.5843563081055,
+					39.6820831298828
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.9307708740234,
+					35.1517028808594
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.688793182373,
+					34.7127914428711
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.4214782714844,
+					38.954475402832
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-25.4944553374023,
+					34.220272064209
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.420452654296875,
+					29.4776515959473
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.29940795898438,
+					13.3084344863281
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.3965773581543,
+					15.5447101591797
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.58452796923828,
+					8.36242771142578
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.7030389309082,
+					15.3863134384766
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.55314970019531,
+					6.27761793139648
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.99245548242188,
+					3.03499770166016
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.942771077148438,
+					7.38328456884766
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.5654926298828,
+					26.4820556640625
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.4529008864746,
+					18.3508262634277
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.1614017485352,
+					22.0786418916016
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.1768245695801,
+					18.8518199921875
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-9.73443603515625,
+					22.3364276884766
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.1372652053223,
+					12.2933254243164
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.0885267258301,
+					14.5882844924316
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.3187522888184,
+					10.6504011154785
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.1254739760742,
+					2.67076730737305
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-9.4518384934082,
+					1.21877121923828
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.7685775756836,
+					27.1841678618164
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.6655521391602,
+					24.3538360595703
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.6935501098633,
+					20.8859214782715
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.7831020356445,
+					23.860616684082
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.1911468505859,
+					8.83988380419922
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.1102256774902,
+					10.3307685852051
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.9336872099609,
+					12.3137273789063
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-19.1598625183105,
+					15.9447040556641
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.2899398803711,
+					10.0552721022949
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.2175884245605,
+					14.7070846557617
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.7325801850586,
+					0.137672483886719
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.511116027832,
+					3.35239100463867
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.0940647124023,
+					27.6709270476074
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.8690242766113,
+					18.8090572358398
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.4048023222656,
+					8.34385108935547
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.2649116516113,
+					1.37627589697266
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-25.4845237731934,
+					0.621958970947266
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-38.4339065551758,
+					-6.15200853344727
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-35.8324699401855,
+					-3.72473168383789
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.7628135681152,
+					-6.59521389013672
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.8042793273926,
+					-13.1238698959961
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.3176918029785,
+					-8.45186805712891
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.3072052001953,
+					-14.3522329331055
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.3205451965332,
+					-17.861328125
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.6191368103027,
+					-20.2297534941406
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.4145660400391,
+					-20.5347156523437
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-35.1670227050781,
+					-26.276231765625
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.8500366210938,
+					-31.2377510070801
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.3779487609863,
+					-2.92901492114258
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.3593292236328,
+					-2.70960545532227
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.5723495483398,
+					-2.22534537304688
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-44.4770126342773,
+					-8.91262817382813
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-42.2291259765625,
+					-8.00696468359375
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.5081443786621,
+					-10.966609954834
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.833984375,
+					-31.40625
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.1721725463867,
+					-31.1402931213379
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.783203125,
+					-30.333984375
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.7000694274902,
+					-30.817943572998
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.4686698913574,
+					-31.6781291960449
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.1961669921875,
+					-38.9064483642578
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.2880554199219,
+					-35.6774482727051
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.5938148498535,
+					-39.9425010681152
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.7133712768555,
+					-36.3182678222656
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.3407554626465,
+					-35.7044677734375
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.8136672973633,
+					49.879337310791
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.5088577270508,
+					41.9773063659668
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-39.0651359558105,
+					33.8986587524414
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-38.307933807373,
+					33.5664596557617
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-38.7323951721191,
+					33.964412689209
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.5546569824219,
+					33.4395408630371
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.728443145752,
+					34.0402412414551
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.1454887390137,
+					37.3604698181152
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.2785491943359,
+					43.7630462646484
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-35.5984115600586,
+					15.2638320922852
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.2309494018555,
+					9.31954383837891
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-36.7022895812988,
+					2.02351522436523
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-36.1795845031738,
+					4.00763797753906
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.343807220459,
+					7.70131969458008
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.8157844543457,
+					-5.85380125048828
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.57373046875,
+					-5.92381954199219
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.1920394897461,
+					-6.15751934057617
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4538459777832,
+					-19.7345943452148
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.707836151123,
+					-17.2963428496094
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.9242858886719,
+					-23.2196006774902
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.8519096374512,
+					-23.0891189575195
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.7318878173828,
+					-23.2184066772461
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.4818077087402,
+					-23.0416851044922
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.024959564209,
+					-22.9810829162598
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.8253288269043,
+					-22.7029666899414
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.5183715820313,
+					-22.6622734069824
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.263298034668,
+					-18.8755893706055
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.5940132141113,
+					-24.7551536560059
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.9044570922852,
+					-14.6574268339844
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.2068862915039,
+					-22.1518421171875
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.0188865661621,
+					-18.2026252746582
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.148868560791,
+					-17.5845928193359
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.5256729125977,
+					-16.372241973877
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.3635215759277,
+					-17.7994270324707
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.834400177002,
+					-22.7018356323242
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.171989440918,
+					-25.0085620878906
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.7117919921875,
+					-31.5653877258301
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.1908912658691,
+					-31.1858615874023
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					42.5051727294922,
+					-32.3895683288574
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.6301307678223,
+					-36.1761474609375
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.5994758605957,
+					-33.3073616027832
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.8762245178223,
+					-43.6310958862305
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.1205673217773,
+					-41.3468055725098
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.2312774658203,
+					-41.9511680603027
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					48.2537727355957,
+					49.802921295166
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					48.6755027770996,
+					41.6193161010742
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					40.8609085083008,
+					48.5176048278809
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.402904510498,
+					47.455997467041
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.6582298278809,
+					47.8392333984375
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.6525535583496,
+					47.3232192993164
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.8717193603516,
+					45.5935707092285
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.0293998718262,
+					35.8869705200195
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.6213264465332,
+					36.3667373657227
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.0767059326172,
+					37.2309722900391
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.7151947021484,
+					39.3330726623535
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.232234954834,
+					36.8084945678711
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.7174377441406,
+					36.7534980773926
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.5207481384277,
+					39.1978607177734
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					42.020881652832,
+					17.3813381196289
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.1976737976074,
+					22.1161594389648
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.8861770629883,
+					23.0823307036133
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.4301910400391,
+					10.4864540100098
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.9926490783691,
+					15.8423433303223
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.7037086486816,
+					2.10983586303711
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.3247108459473,
+					7.06408739086914
+				]
+			},
+			"properties": {
+				"name": "Junk Pile",
+				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.9044609069824,
+					24.7192859648437
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.8555335998535,
+					25.4714889526367
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.7467002868652,
+					19.6168727875977
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.8451347351074,
+					18.7484188081055
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.6476821899414,
+					18.7780590058594
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.6376686096191,
+					13.4047660827637
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.8393173217773,
+					9.34194660180664
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.314453125,
+					13.6254444121094
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.2656478881836,
+					14.9199724196777
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.2167930603027,
+					12.5281000136719
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.2753982543945,
+					1.73487663256836
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.244743347168,
+					-15.666181564209
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.8637523649902,
+					-13.4499940871582
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.3671550749512,
+					-31.7721061706543
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.0961666105957,
+					-29.8281669616699
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.5651111601562,
+					-31.1433868408203
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.8305320739746,
+					-24.182258605957
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.1890850068359,
+					-29.460729598877
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.5602827072754,
+					-4.44088745117188
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.8647384643555,
+					-3.23727440844727
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.0077428818359,
+					-14.5585918425293
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.46962165820313,
+					-21.6288719177246
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.13228893286133,
+					-18.5655174255371
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.862325668457,
+					-16.8456382751465
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.6098251342773,
+					-18.8111839294434
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.45255374902344,
+					-26.3149433134766
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.24665451049805,
+					-25.0298862456055
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.2554473876953,
+					-25.1253814697266
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.1927747727051,
+					-25.87255859375
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.29002678393555,
+					-2.59798884399414
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.43757319458008,
+					-20.7849922180176
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.7631678581543,
+					-19.6566200256348
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.5946712495117,
+					-40.2490997314453
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.3564805983887,
+					-34.7819290161133
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.6093243359375,
+					-42.2682266235352
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.33930826196289,
+					-40.3669090270996
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.39126777636719,
+					-41.221565246582
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.2539939880371,
+					48.5267601013184
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.500524520752,
+					48.1591644287109
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					26.675043105957,
+					43.5669441223145
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					26.4823684692383,
+					43.8136558532715
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.417797088623,
+					43.8907623291016
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.825002670166,
+					45.3976440429688
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.1035652160645,
+					41.3947601318359
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.8915672302246,
+					44.0282249450684
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.5179595947266,
+					47.4708442687988
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.9122638701172,
+					34.3957176208496
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.1555347441406,
+					39.5442276000977
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					23.88232421875,
+					32.7923431396484
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.88375186914062,
+					46.1417541503906
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.1261816025391,
+					36.6054534912109
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.7360134123535,
+					34.7865257263184
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.770906865478516,
+					42.1966705322266
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.43239808081055,
+					41.4816589355469
+				]
+			},
+			"properties": {
+				"name": "Junk Pile",
+				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.78990960131836,
+					44.2203330993652
+				]
+			},
+			"properties": {
+				"name": "Junk Pile",
+				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.43331003198242,
+					44.3248062133789
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.73646831518555,
+					46.5186882019043
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.90551972387695,
+					35.5790824890137
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.14250040063477,
+					37.1761856079102
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.6161556242676,
+					27.3454093933105
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.9014472961426,
+					29.1580142973633
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.6796226501465,
+					19.6526927949219
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.7131004333496,
+					23.227466583252
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.6433696745605,
+					14.5845975876465
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.8403129577637,
+					10.9260883330078
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.6202678679199,
+					4.7886304855957
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.8576545715332,
+					5.39274024951172
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.5821170805664,
+					5.88877296435547
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.8174438476563,
+					6.45587205883789
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.3590641020508,
+					24.6242332458496
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.3955307006836,
+					28.5580940246582
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.6651763916016,
+					28.1215496062012
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.6967926025391,
+					22.619068145752
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.9142208100586,
+					8.28713798510742
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					22.2560291289062,
+					0.657789170654297
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.6906328200684,
+					28.8524627685547
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.6390466689453,
+					24.418830871582
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.7944850922852,
+					18.7640323637695
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.7991065979004,
+					4.78784990307617
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.244387626709,
+					7.40194654467773
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.7265625,
+					30.8125
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.87527704248047,
+					30.704324722168
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.22458171850586,
+					31.209451675293
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.77022361743164,
+					27.7957038879395
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.40608072290039,
+					22.8417568208008
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.72370672216797,
+					18.4470348359375
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.26775073999023,
+					10.1359577177734
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38200521459961,
+					12.6802339553223
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.65078163134766,
+					10.6205863952637
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.81206059448242,
+					3.33368778222656
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.44024419775391,
+					5.15750741967773
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.59045648583984,
+					6.68480396264648
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		}
+	]
+}

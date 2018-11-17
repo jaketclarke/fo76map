@@ -1,0 +1,3211 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.72569763671875,
+					-2.0581035612793
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.10397696484375,
+					-12.6145763395996
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.42573022851562,
+					-12.7161865234375
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.35519576074219,
+					-10.342767715332
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.44101572045898,
+					-26.6929035185547
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.6864714621582,
+					-26.3782348632813
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.0203046799316,
+					-15.7149305344238
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.1254730224609,
+					-13.1576833725586
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.0184898376465,
+					-13.6735448837891
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.4576787949219,
+					-15.1118488310547
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.4495048522949,
+					-11.2696256638184
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.2976741791992,
+					-10.9592008591309
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.4617977143555,
+					-13.9229402541504
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.4353942871094,
+					-27.4557685852051
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.5043048857422,
+					-27.1374931335449
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.7957668305664,
+					-11.4095764160156
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.5239086152344,
+					-9.95140361791992
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.9426441191406,
+					-10.2224168776855
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-19.2570056914062,
+					-20.373270034668
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.4368076323242,
+					-28.1801147460938
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.7317523955078,
+					-7.78515625
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.245044708252,
+					-9.32737064355469
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.6566677092285,
+					-11.9177293776855
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.7740345,
+					-30.1087398527832
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.9812602995605,
+					-30.0785064697266
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.1364994047852,
+					-25.4635581970215
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.7875490187988,
+					-36.5541610717773
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.6284599304199,
+					-36.6020545959473
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-27.2885589599609,
+					-32.1722297668457
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.077070236084,
+					-40.9963035583496
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-27.5500106811523,
+					-41.0631256103516
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.51993656152344,
+					48.0770874023438
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.87248468408203,
+					49.1314506530762
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.22542047509766,
+					45.9617805480957
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.12953948974609,
+					46.6204719543457
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.60575914379883,
+					46.6682014465332
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.727710723877,
+					50.3006324768066
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.4757175444336,
+					50.1634101867676
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.7562618256836,
+					44.8858108520508
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.4734497070313,
+					39.2716445922852
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-19.1332244873047,
+					35.978832244873
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.5170822143555,
+					36.4728775024414
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.0098972319336,
+					43.3876113891602
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.0765609741211,
+					44.1342277526855
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.7261562346191,
+					41.9851913452148
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-25.4543113708496,
+					37.5284538269043
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.97949361791992,
+					30.9422454833984
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.40759611132813,
+					30.4358844755859
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.83777570727539,
+					31.8942394255371
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.71250915527344,
+					25.0946998596191
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.14266395556641,
+					21.6343822480469
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.56062459936523,
+					11.801441192627
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.55612206469727,
+					8.32077026367188
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.87757110595703,
+					0.919978141845703
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.1982808112793,
+					7.28393459326172
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.81657791137695,
+					7.81434392919922
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-8.06418228149414,
+					22.0169849394531
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-10.4608039855957,
+					12.5384664536133
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.8456773757324,
+					6.31214046484375
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.3111553190918,
+					7.14726686474609
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.5770645141602,
+					17.6633663178711
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.7202644348145,
+					18.4696063994141
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-19.3978099824219,
+					6.76388549804688
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.1658725737305,
+					12.704894065918
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.6925182341309,
+					12.8986959458008
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-24.807315826416,
+					14.1857948303223
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-38.0701637268066,
+					-1.03157711035156
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-38.9773712158203,
+					-0.424079775878906
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.1752891540527,
+					-6.73506546020508
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.5137252807617,
+					-11.306887626709
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.152904510498,
+					-9.63527584082031
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.2820663452148,
+					-17.7815380097656
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.6364479064941,
+					-30.277473449707
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.2621231079102,
+					-29.3604106901855
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.0862922668457,
+					-7.41996526708984
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-42.7808952331543,
+					-10.0039319992676
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-42.4031791687012,
+					-10.485668182373
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-42.4404411315918,
+					-10.672059059082
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-44.5705680847168,
+					-19.5318126679688
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-44.3605194091797,
+					-18.7112445830078
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-43.4475784301758,
+					-20.0063495634766
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-43.3042640686035,
+					-19.9626350402832
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.1126899719238,
+					-29.2377014160156
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.074333190918,
+					-29.3673458098145
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-45.4647827148438,
+					-30.4420547485352
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-44.6193351745605,
+					-30.3366794584961
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-36.7239189147949,
+					40.1273155212402
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.1209678649902,
+					42.3029365539551
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.0488662719727,
+					34.9396438598633
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-36.131462097168,
+					34.8584518432617
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-35.9968719482422,
+					34.0662078857422
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.2379188537598,
+					46.8694000244141
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.3046875,
+					47.763671875
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-42.2341156005859,
+					33.3405265808105
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.6034126281738,
+					19.357006072998
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-36.4822731018066,
+					12.7093858718262
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					48.8780899047852,
+					-23.8211307524414
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					48.1554985046387,
+					-28.7239246367187
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.9898300170898,
+					-14.4953298569336
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.4145812988281,
+					-14.7174339294434
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					40.5276947021484,
+					-20.5835151672363
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					40.4164009094238,
+					-20.3679847717285
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.5802688598633,
+					-17.3923187255859
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.2870941162109,
+					-23.8830242158203
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.7532806396484,
+					-6.67831325537109
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.5928344726563,
+					-6.62625646582031
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.6811790466309,
+					-6.61993789672852
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.6088943481445,
+					-6.82722473144531
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.7259826660156,
+					-4.33447647094727
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.5030097961426,
+					-14.5063581467285
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.9688758850098,
+					-9.26346874243164
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.7896385192871,
+					-9.37274456030273
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.0420417785645,
+					-9.26232242578125
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.2779159545898,
+					-21.8702774047852
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.2712326049805,
+					-21.5242900849609
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.8258361816406,
+					-26.707763671875
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					49.2067031860352,
+					-41.2738456726074
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					49.479923248291,
+					-41.3744163513184
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					40.1742935180664,
+					-37.9205055236816
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.4879684448242,
+					-35.3997611999512
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.7326850891113,
+					-38.4125633239746
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.3361625671387,
+					-34.5957641601563
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.5563735961914,
+					-34.4919357299805
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.1977920532227,
+					-35.3896675109863
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.0271415710449,
+					-39.2786712646484
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.5178871154785,
+					-35.6523361206055
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.3351402282715,
+					-33.4230461120605
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.4880599975586,
+					43.714427947998
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.781177520752,
+					30.6549816130371
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.3132743835449,
+					30.499885559082
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.1835784912109,
+					16.0966567993164
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.9501075744629,
+					19.7503051757813
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.5758476257324,
+					19.6076393127441
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					40.1079788208008,
+					10.7814416884766
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					42.20703125,
+					15.611328125
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.2620849609375,
+					10.7858428955078
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.182071685791,
+					14.3620367050781
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.6411476135254,
+					15.0268564223633
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.2061386108398,
+					3.63563036914063
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.4910850524902,
+					17.4879398344727
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.3529815673828,
+					17.7703399658203
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.9384880065918,
+					20.6111011503906
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.3013496398926,
+					21.5088138579102
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.3593826293945,
+					10.5937232971191
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.2666320800781,
+					11.3419752121582
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.1036376953125,
+					0.190646260986328
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.3576564790039,
+					-14.5084028244629
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.1147136689453,
+					-14.493483543457
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.159475326416,
+					-21.154317855957
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					26.5950450895996,
+					-25.3763542175293
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.2122192382813,
+					-31.5522155761719
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.426456451416,
+					-31.3297691345215
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.2365474702148,
+					-15.5155973435059
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.6721572875977,
+					-9.14963626855469
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.3810691833496,
+					-9.22606945043945
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.5570240019531,
+					-9.92502975463867
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					22.4835224150391,
+					-8.24303340917969
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.162374496582,
+					-15.7235488891602
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.794981956543,
+					-9.58710765844727
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.4493379592285,
+					-9.71872234350586
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.1510686875,
+					-13.3963508605957
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.3206930161133,
+					-12.9736595153809
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.4041023254395,
+					-22.1076011657715
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.5429563522949,
+					-21.4989166259766
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.8575010300293,
+					-25.883539199707
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.98447132104492,
+					-29.754690170166
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0758628845215,
+					-27.8919525146484
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.17204046240234,
+					-4.79050350195312
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.14033603662109,
+					-1.78595352172852
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.10550546655273,
+					-8.2476243972168
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.75860404956055,
+					-11.9803686142578
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.878545463134766,
+					-29.2716388701172
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.97325468066406,
+					-24.3381195068359
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.98535490039063,
+					-24.2957324980469
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.96028208740234,
+					-24.1205368041992
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.09387397753906,
+					-24.2823295593262
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.3713836669922,
+					-37.5306777954102
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					26.7550449370117,
+					-42.1096267700195
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.8072052001953,
+					-40.2406921386719
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.1182746887207,
+					-40.1534843444824
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.174940109375,
+					-39.1526794433594
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.1417274475098,
+					-43.6871910095215
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.6836185454102,
+					-43.9119186401367
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.4372463227539,
+					32.6645355224609
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.0139827729492,
+					32.6380004882813
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					23.8112049101562,
+					35.0433044433594
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					23.896484375,
+					35.2701301574707
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.70706939697266,
+					42.1062469482422
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.1436519621582,
+					41.4555702209473
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.655158460205078,
+					44.8204345703125
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.182728364990234,
+					33.8264999389648
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.856334388183594,
+					34.3289604187012
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.8718242644043,
+					27.7936134338379
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.1798858642578,
+					23.2912254333496
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.693166732666,
+					21.6576557158203
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.2984771728516,
+					22.7463760375977
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.5104179382324,
+					23.1077442167969
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.0648212431641,
+					22.6886577607422
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.1124553679199,
+					22.3697700500488
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.6712875366211,
+					11.2396173476562
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.1528720854492,
+					9.63542270654297
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.1959495544434,
+					9.62841987597656
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.2850704191895,
+					7.1831169128418
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.6596279143066,
+					6.48674440380859
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.9461231230469,
+					7.087347984375
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.8707160949707,
+					31.5643310546875
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.7770671845703,
+					31.378942489502
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.6912155151367,
+					12.0767984389648
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.0713176728516,
+					6.06874799731445
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					22.2626857758789,
+					4.894815921875
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.6393032072754,
+					20.0396270751953
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.38597106933594,
+					8.83442497265625
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.6187629699707,
+					1.79596757885742
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.5709142685547,
+					1.4732034206543
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.3973293305664,
+					1.4462062121582
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.3916511535645,
+					1.75309741503906
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.6996488571777,
+					4.0800938605957
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1535739897461,
+					4.16416072851562
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1912879943848,
+					4.01251745214844
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.8237400053711,
+					5.66647100439453
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.6337203979492,
+					5.53391456591797
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.5877819060059,
+					3.8660597800293
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.59783482543945,
+					29.4915542602539
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.25264644628906,
+					24.552972793457
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.37076425561523,
+					14.1036205290527
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.76722121240234,
+					14.1942358017578
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.69010615356445,
+					14.1530427932129
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.09177351000977,
+					14.0624036789551
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.37210655200195,
+					14.1170921325684
+				]
+			},
+			"properties": {
+				"name": "Bobblehead",
+				"type": "107"
+			}
+		}
+	]
+}
