@@ -6,6 +6,104 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					-7.90170145043945,
+					-5.84339046484375
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.22718763354492,
+					-3.34374713891602
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.70321512231445,
+					-0.644003033691406
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.95597600927734,
+					-6.93746185302734
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.3092134296875,
+					-5.56884336474609
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.12291240698242,
+					-10.4634771347656
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.79146146777344,
+					-19.3692436218262
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					-5.30958938598633,
 					-20.3788108825684
 				]
@@ -13,6 +111,608 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.710505545166016,
+					-22.6329555512695
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.8794779777832,
+					-27.4336032866211
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.81753873828125,
+					-30.6630840300293
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.11457967749023,
+					-29.3563060759277
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.2398395537109,
+					-6.93389034277344
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.1806230544434,
+					-6.32737779614258
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.1259422302246,
+					-0.947217345214844
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.5635108947754,
+					-6.3745908737793
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.457148552002,
+					-5.73224258422852
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.9512424467773,
+					-2.79157733911133
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.6473379135742,
+					-7.54461812963867
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-10.742621421875,
+					-6.69344234472656
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-10.6187372207031,
+					-1.75988757617188
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.9282608032227,
+					-11.2961816787109
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.7532653808594,
+					-10.5221185683594
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.7423801420898,
+					-17.7255992890625
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-8.34084606176758,
+					-21.4682025908203
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.816520690918,
+					-30.5538997648926
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.6401615141602,
+					-26.4180030822754
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.674560546875,
+					-2.44432854663086
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.275396347168,
+					-5.92823076245117
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.8219871520996,
+					-6.83250188818359
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-20.7616214750977,
+					-0.549461543457031
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.2925415039063,
+					-0.691925585205078
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.5305538178711,
+					-9.6125602722168
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.824457168457,
+					-8.85478782666016
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.7103729248047,
+					-10.2658700942383
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-20.3522453308105,
+					-9.21008586889648
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.2976245878906,
+					-13.857587814209
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.2111129760742,
+					-14.79511165625
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.4509372709961,
+					-8.75543594360352
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.0966644287109,
+					-20.8213825224609
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.8352298735352,
+					-17.9850234985352
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-20.1509284973145,
+					-23.1685543061523
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.282527923584,
+					-18.3783779145508
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.4452991484375,
+					-28.1950073242188
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.4949264526367,
+					-25.311882019043
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.8328113554687,
+					-24.2655906677246
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.3552989958496,
+					-31.294126510498
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.3008193969727,
+					-27.6146030424805
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.8463230131836,
+					-4.33083868017578
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.485034942627,
+					-5.39369106298828
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.102912902832,
+					-15.1852865219727
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
 			}
 		},
 		{
@@ -34,6 +734,34 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					-31.1985912321777,
+					-14.885313987793
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.2261714934082,
+					-10.7216148376465
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					-30.7044792175293,
 					-15.3543405532227
 				]
@@ -41,6 +769,20 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.6260147094727,
+					-14.5543270109863
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
 			}
 		},
 		{
@@ -62,6 +804,370 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					-30.8579998015137,
+					-11.077940940918
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.0606212614746,
+					-10.4235572814941
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.6871242521973,
+					-9.86721134179687
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-26.8832092285156,
+					-15.6861743925781
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.1874027250977,
+					-22.2020568847656
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.732292175293,
+					-17.9517288208008
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.2319831848145,
+					-16.3764858244629
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.4888172148437,
+					-23.3658542631836
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-25.2383193969727,
+					-20.4554328918457
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.7001018522949,
+					-28.3398132324219
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.2159080505371,
+					-24.6251544951172
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.5177688598633,
+					-27.2097320556641
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-27.2295970915527,
+					-30.7671813964844
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-27.0637092590332,
+					-24.3825225830078
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-26.4470844267578,
+					-28.3645248413086
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-24.2301979064941,
+					-29.6505756376953
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-24.7382202148438,
+					-26.7500190734863
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.63285446166992,
+					-37.1237640380859
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.76377534863281,
+					-32.1853561401367
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.7191908359375,
+					-36.1884765625
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.359632194091797,
+					-38.5254325866699
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.388671875,
+					-38.287109375
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.544570267089844,
+					-38.1550102233887
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.282683998291016,
+					-37.5614471435547
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.42016744604492,
+					-40.4768104553223
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.28592872607422,
+					-41.0076141357422
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					-15.7708425522461,
 					-38.830680847168
 				]
@@ -69,6 +1175,34 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.313362121582,
+					-39.3536071777344
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.7649230957031,
+					-37.1884498596191
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
 			}
 		},
 		{
@@ -90,6 +1224,216 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					-10.4356174467773,
+					-37.9410858154297
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-8.41318035131836,
+					-32.6387138366699
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-10.3988189697266,
+					-41.360221862793
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.3167514799805,
+					-38.2095031738281
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.7436923979492,
+					-36.7761573791504
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.8285255432129,
+					-35.7189750671387
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.0917949677734,
+					-32.767448425293
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.0331783293457,
+					-33.2398681640625
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.2727642060547,
+					-41.0047988891602
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.7748260498047,
+					-37.7622489929199
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.6623249052734,
+					-32.351261138916
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.1309871672363,
+					-41.3357543945313
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-25.0785999296875,
+					-40.6181755065918
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.36885881420898,
+					48.1669540405273
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.66464519506836,
+					43.9857292175293
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					-2.43727707861328,
 					45.5134315490723
 				]
@@ -97,6 +1441,20 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.637638747802734,
+					42.9561233520508
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
 			}
 		},
 		{
@@ -118,6 +1476,342 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					-2.71567034716797,
+					35.6475677490234
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.89302921289062,
+					34.7151756286621
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-10.4709587097168,
+					48.4327812194824
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.6682415007324,
+					44.6510620117188
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.4740724562988,
+					44.8373565673828
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.8555650710449,
+					45.1220169067383
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.1621475219727,
+					45.1832427978516
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.6452178955078,
+					45.1368713378906
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.0923500061035,
+					41.5033493041992
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.7722244262695,
+					37.2509498596191
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.2859544753418,
+					32.2832679748535
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.2777585983887,
+					39.5550994873047
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-9.17432212841797,
+					36.5908241271973
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-8.57922267919922,
+					35.5481643676758
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-8.77424144750977,
+					36.6340065002441
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.2851257324219,
+					48.2862358093262
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.7887001037598,
+					45.5634956359863
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.6347885131836,
+					43.2752418518066
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.6593284606934,
+					32.4436149597168
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-19.0863056181641,
+					35.4550743103027
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.5843563081055,
+					39.6820831298828
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.9307708740234,
+					35.1517028808594
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.4290561674805,
+					50.4934616088867
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-27.6705150603027,
+					50.0650405883789
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					-28.4080276489258,
 					42.1438064575195
 				]
@@ -125,6 +1819,342 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-26.735466003418,
+					42.5123100280762
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-26.082326888916,
+					44.7193641662598
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.2632999418945,
+					39.4017448425293
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.688793182373,
+					34.7127914428711
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.4214782714844,
+					38.954475402832
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-25.4944553374023,
+					34.220272064209
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.420452654296875,
+					29.4776515959473
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.29940795898438,
+					13.3084344863281
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.3965773581543,
+					15.5447101591797
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.58452796923828,
+					8.36242771142578
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.7030389309082,
+					15.3863134384766
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.55314970019531,
+					6.27761793139648
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.27560091015625,
+					1.39264571655273
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.99245548242188,
+					3.03499770166016
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.942771077148438,
+					7.38328456884766
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.5654926298828,
+					26.4820556640625
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.658987045166,
+					30.7870006560059
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-8.62515831005859,
+					26.9428195952148
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-15.4529008864746,
+					18.3508262634277
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.5715999602051,
+					20.2056312561035
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.1614017485352,
+					22.0786418916016
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.1768245695801,
+					18.8518199921875
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.642328262207,
+					22.0427608491211
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.2690448759766,
+					19.9425640107422
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
 			}
 		},
 		{
@@ -146,6 +2176,20 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					-12.8304767607422,
+					21.4251079560547
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					-9.45563507080078,
 					19.6877307890625
 				]
@@ -153,6 +2197,1042 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-9.73443603515625,
+					22.3364276884766
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.7650680541992,
+					10.1404676437988
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.1372652053223,
+					12.2933254243164
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-12.0885267258301,
+					14.5882844924316
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.3187522888184,
+					10.6504011154785
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-13.1254739760742,
+					2.67076730737305
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-9.4518384934082,
+					1.21877121923828
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.7685775756836,
+					27.1841678618164
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.6655521391602,
+					24.3538360595703
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.5719738007813,
+					29.6223411560059
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.6935501098633,
+					20.8859214782715
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.7831020356445,
+					23.860616684082
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.1911468505859,
+					8.83988380419922
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.1102256774902,
+					10.3307685852051
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.9336872099609,
+					12.3137273789063
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-19.1598625183105,
+					15.9447040556641
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-17.6706695556641,
+					11.8892116547852
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.2899398803711,
+					10.0552721022949
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.2175884245605,
+					14.7070846557617
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-23.7325801850586,
+					0.137672483886719
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.2115058898926,
+					0.967750608886719
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.511116027832,
+					3.35239100463867
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-31.1813659667969,
+					29.7151260375977
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.0940647124023,
+					27.6709270476074
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.8804569243164,
+					30.4824981689453
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-29.8690242766113,
+					18.8090572358398
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-26.8641586303711,
+					16.746374130127
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-26.19542121875,
+					17.0681552885742
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-30.4234638212891,
+					14.671739578125
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.4048023222656,
+					8.34385108935547
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.6758594511719,
+					14.9329586027832
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-27.2129650114746,
+					10.599494934082
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-28.2649116516113,
+					1.37627589697266
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-25.4845237731934,
+					0.621958970947266
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-38.4339065551758,
+					-6.15200853344727
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-35.2097511291504,
+					-5.58193254467773
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-35.8324699401855,
+					-3.72473168383789
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.7628135681152,
+					-6.59521389013672
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.5392265319824,
+					-0.275987208007813
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.8042793273926,
+					-13.1238698959961
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.3176918029785,
+					-8.45186805712891
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.3072052001953,
+					-14.3522329331055
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.3205451965332,
+					-17.861328125
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.6191368103027,
+					-20.2297534941406
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.4145660400391,
+					-20.5347156523437
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-35.1670227050781,
+					-26.276231765625
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.8500366210938,
+					-31.2377510070801
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-42.1871452331543,
+					-4.28466367724609
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-42.1380004882813,
+					-2.99293231958008
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.3779487609863,
+					-2.92901492114258
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.3593292236328,
+					-2.70960545532227
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.5723495483398,
+					-2.22534537304688
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.5212593078613,
+					-0.798230171142578
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-44.4770126342773,
+					-8.91262817382813
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-42.2291259765625,
+					-8.00696468359375
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.5081443786621,
+					-10.966609954834
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-47.0718803405762,
+					-30.540885925293
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.833984375,
+					-31.40625
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.1721725463867,
+					-31.1402931213379
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.783203125,
+					-30.333984375
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-46.7000694274902,
+					-30.817943572998
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.4686698913574,
+					-31.6781291960449
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.1961669921875,
+					-38.9064483642578
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.2880554199219,
+					-35.6774482727051
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.5938148498535,
+					-39.9425010681152
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.7133712768555,
+					-36.3182678222656
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.3407554626465,
+					-35.7044677734375
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-39.5919761657715,
+					48.4037895202637
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.8136672973633,
+					49.879337310791
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.5088577270508,
+					41.9773063659668
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-35.5154037475586,
+					45.1254997253418
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.115795135498,
+					41.5956268310547
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-39.0651359558105,
+					33.8986587524414
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-38.307933807373,
+					33.5664596557617
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
 			}
 		},
 		{
@@ -174,6 +3254,90 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					-38.7323951721191,
+					33.964412689209
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-38.7424049377441,
+					34.8150482177734
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.5546569824219,
+					33.4395408630371
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.728443145752,
+					34.0402412414551
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.7047538757324,
+					37.5314254760742
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.1454887390137,
+					37.3604698181152
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					-32.6569786071777,
 					32.0195579528809
 				]
@@ -181,6 +3345,62 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.3305969238281,
+					44.4909706115723
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.2785491943359,
+					43.7630462646484
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.559268951416,
+					33.0913352966309
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.0168418884277,
+					39.4551315307617
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
 			}
 		},
 		{
@@ -202,6 +3422,48 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					-34.2441787719727,
+					17.5323638916016
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.893669128418,
+					21.5992069243164
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-32.8591766357422,
+					23.9534206391602
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					-32.7476692199707,
 					23.3624858857422
 				]
@@ -209,6 +3471,20 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-39.1719093322754,
+					12.2450151442871
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
 			}
 		},
 		{
@@ -230,6 +3506,34 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					-35.5984115600586,
+					15.2638320922852
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.2309494018555,
+					9.31954383837891
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					-33.0978851318359,
 					14.6095895766602
 				]
@@ -237,6 +3541,62 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-36.7022895812988,
+					2.02351522436523
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-36.1795845031738,
+					4.00763797753906
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.343807220459,
+					7.70131969458008
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-34.3177223205566,
+					7.35947513574219
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
 			}
 		},
 		{
@@ -258,6 +3618,48 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					-33.227424621582,
+					6.16549301147461
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.6487007141113,
+					7.6410861015625
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-33.5007591247559,
+					7.15779161450195
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					-40.8665618896484,
 					28.4287853239746
 				]
@@ -265,6 +3667,20 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-40.6623077392578,
+					20.839958190918
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
 			}
 		},
 		{
@@ -286,6 +3702,62 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					42.434455871582,
+					-5.77437353125
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.9585990905762,
+					-6.30073118212891
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.7719650268555,
+					-6.45408391943359
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.7752952575684,
+					-6.11352920532227
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					45.3911972045898,
 					-5.66698408129883
 				]
@@ -293,6 +3765,230 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.8157844543457,
+					-5.85380125048828
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.57373046875,
+					-5.92381954199219
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.1920394897461,
+					-6.15751934057617
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.4492645263672,
+					-6.38382625585937
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					42.7313423156738,
+					-13.3274583815918
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.8043060302734,
+					-13.1582584379883
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4538459777832,
+					-19.7345943452148
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.707836151123,
+					-17.2963428496094
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.9242858886719,
+					-23.2196006774902
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.8519096374512,
+					-23.0891189575195
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.7318878173828,
+					-23.2184066772461
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.4818077087402,
+					-23.0416851044922
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.024959564209,
+					-22.9810829162598
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.8253288269043,
+					-22.7029666899414
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.5183715820313,
+					-22.6622734069824
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.263298034668,
+					-18.8755893706055
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
 			}
 		},
 		{
@@ -314,6 +4010,258 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					43.5940132141113,
+					-24.7551536560059
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.6604309082031,
+					-25.309076309082
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.2099838256836,
+					-31.1290168762207
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.2425956726074,
+					-4.13167953491211
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.7094688415527,
+					-8.80538940429688
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.9044570922852,
+					-14.6574268339844
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.2951354980469,
+					-15.5108461379395
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.2068862915039,
+					-22.1518421171875
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.0188865661621,
+					-18.2026252746582
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.148868560791,
+					-17.5845928193359
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.2998123168945,
+					-23.6810321806641
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.5256729125977,
+					-16.372241973877
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.4059715270996,
+					-18.3111934663086
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.3635215759277,
+					-17.7994270324707
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.834400177002,
+					-22.7018356323242
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.172191619873,
+					-27.4357643127441
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.171989440918,
+					-25.0085620878906
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.4756736755371,
+					-30.6576862333984
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					34.8907585144043,
 					-28.8707599638672
 				]
@@ -321,6 +4269,146 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.7117919921875,
+					-31.5653877258301
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.1908912658691,
+					-31.1858615874023
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					49.0670127868652,
+					-38.1409149169922
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.2960510253906,
+					-33.4140243530273
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					42.5051727294922,
+					-32.3895683288574
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.6301307678223,
+					-36.1761474609375
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.5994758605957,
+					-33.3073616027832
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.6158447265625,
+					-34.732421875
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.8762245178223,
+					-43.6310958862305
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.1205673217773,
+					-41.3468055725098
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
 			}
 		},
 		{
@@ -342,6 +4430,160 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					46.771484375,
+					-41.2890625
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.748607635498,
+					-41.2939262390137
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.0006980895996,
+					-42.13037109375
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.6155548095703,
+					-42.149829864502
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.2312774658203,
+					-41.9511680603027
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					48.2537727355957,
+					49.802921295166
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					48.6755027770996,
+					41.6193161010742
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					48.3928604125977,
+					36.0757446289063
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					40.8609085083008,
+					48.5176048278809
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.402904510498,
+					47.455997467041
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.3414878845215,
+					43.3565406799316
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					44.852783203125,
 					38.746265411377
 				]
@@ -349,6 +4591,132 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.8168487548828,
+					32.341121673584
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.6582298278809,
+					47.8392333984375
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.0986557006836,
+					42.9427871704102
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.0220184326172,
+					45.0544548034668
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.6525535583496,
+					47.3232192993164
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.8717193603516,
+					45.5935707092285
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.0293998718262,
+					35.8869705200195
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.6213264465332,
+					36.3667373657227
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.0767059326172,
+					37.2309722900391
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
 			}
 		},
 		{
@@ -370,6 +4738,272 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					33.7151947021484,
+					39.3330726623535
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.232234954834,
+					36.8084945678711
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.7174377441406,
+					36.7534980773926
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.5207481384277,
+					39.1978607177734
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.3030242919922,
+					35.4454154968262
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.4737091064453,
+					38.5746803283691
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					48.9309425354004,
+					28.5849990844727
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					49.0874404907227,
+					19.1013717651367
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.3850860595703,
+					29.6901950834961
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.3299407958984,
+					22.1725234985352
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					42.020881652832,
+					17.3813381196289
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.8787536621094,
+					22.7734279633789
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.1976737976074,
+					22.1161594389648
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.4447937011719,
+					23.0938186645508
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.8861770629883,
+					23.0823307036133
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.4301910400391,
+					10.4864540100098
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.9926490783691,
+					15.8423433303223
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.3144645690918,
+					5.91245460498047
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.7037086486816,
+					2.10983586303711
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					43.3247108459473,
 					7.06408739086914
 				]
@@ -377,6 +5011,146 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.7372131347656,
+					4.33732557299805
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.9044609069824,
+					24.7192859648437
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.8555335998535,
+					25.4714889526367
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.3946228027344,
+					17.356927871582
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.7467002868652,
+					19.6168727875977
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.8451347351074,
+					18.7484188081055
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.0700302124023,
+					18.0920715332031
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.8487663269043,
+					18.0467376708984
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.6476821899414,
+					18.7780590058594
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.1474456787109,
+					19.0906467436523
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
 			}
 		},
 		{
@@ -398,6 +5172,90 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					33.6376686096191,
+					13.4047660827637
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.8393173217773,
+					9.34194660180664
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.314453125,
+					13.6254444121094
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.2656478881836,
+					14.9199724196777
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.2167930603027,
+					12.5281000136719
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.2753982543945,
+					1.73487663256836
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					36.9938545227051,
 					5.90784120556641
 				]
@@ -405,6 +5263,48 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.244743347168,
+					-15.666181564209
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					26.5668258666992,
+					-9.22966194140625
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.8637523649902,
+					-13.4499940871582
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
 			}
 		},
 		{
@@ -426,6 +5326,104 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					29.4132289885254,
+					-9.20317554467773
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.3671550749512,
+					-31.7721061706543
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.0961666105957,
+					-29.8281669616699
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.8582992553711,
+					-26.2783470153809
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.5651111601562,
+					-31.1433868408203
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.8305320739746,
+					-24.182258605957
+				]
+			},
+			"properties": {
+				"name": "Black Titanium Deposit",
+				"type": 3517869
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.1033210754395,
+					-6.82556486132813
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					16.7846546171875,
 					-31.3901443481445
 				]
@@ -433,6 +5431,20 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.1890850068359,
+					-29.460729598877
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
 			}
 		},
 		{
@@ -454,6 +5466,244 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					10.5602827072754,
+					-4.44088745117188
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.5106687546387,
+					-2.4899244309082
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.6858024597168,
+					-0.165616467529297
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.7426166533203,
+					-5.36870002734375
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.8647384643555,
+					-3.23727440844727
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.3575048447266,
+					-0.0901551098632812
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.0077428818359,
+					-14.5585918425293
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.46962165820313,
+					-21.6288719177246
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.13228893286133,
+					-18.5655174255371
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.862325668457,
+					-16.8456382751465
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.6098251342773,
+					-18.8111839294434
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.45255374902344,
+					-26.3149433134766
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.24665451049805,
+					-25.0298862456055
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.13045406347656,
+					-25.6048755644531
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.2554473876953,
+					-25.1253814697266
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.1927747727051,
+					-25.87255859375
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.2886772155762,
+					-27.1938076018066
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					13.7875490187988,
 					-30.7410068510742
 				]
@@ -468,6 +5718,286 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					15.4867820739746,
+					-28.1651611328125
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.29002678393555,
+					-2.59798884399414
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.59850835791016,
+					-1.53446006787109
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.43757319458008,
+					-20.7849922180176
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.7631678581543,
+					-19.6566200256348
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.9456844328613,
+					-38.5763816833496
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.5403823852539,
+					-42.5072402954102
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					22.6670932768555,
+					-34.7701606750488
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.5946712495117,
+					-40.2490997314453
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.6512937546387,
+					-39.1640319824219
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.3564805983887,
+					-34.7819290161133
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.7488088608398,
+					-34.9344749450684
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.478895247070313,
+					-37.9071083068848
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.6093243359375,
+					-42.2682266235352
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.33930826196289,
+					-40.3669090270996
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.39126777636719,
+					-41.221565246582
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.2539939880371,
+					48.5267601013184
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.500524520752,
+					48.1591644287109
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					26.675043105957,
+					43.5669441223145
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					26.4823684692383,
+					43.8136558532715
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					26.5911865234375,
 					44.6752548217773
 				]
@@ -475,6 +6005,202 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.417797088623,
+					43.8907623291016
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.6148910522461,
+					44.3857307434082
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.825002670166,
+					45.3976440429688
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.1035652160645,
+					41.3947601318359
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.8915672302246,
+					44.0282249450684
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.5179595947266,
+					47.4708442687988
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.611701965332,
+					36.8739547729492
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.9122638701172,
+					34.3957176208496
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.1555347441406,
+					39.5442276000977
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					23.88232421875,
+					32.7923431396484
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.88375186914062,
+					46.1417541503906
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.1261816025391,
+					36.6054534912109
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.7360134123535,
+					34.7865257263184
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.770906865478516,
+					42.1966705322266
+				]
+			},
+			"properties": {
+				"name": "Phosphate Deposit",
+				"type": 3952139
 			}
 		},
 		{
@@ -510,6 +6236,524 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
+					4.43331003198242,
+					44.3248062133789
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.73646831518555,
+					46.5186882019043
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.90551972387695,
+					35.5790824890137
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.14250040063477,
+					37.1761856079102
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.5398807524414,
+					27.0868206022949
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.6161556242676,
+					27.3454093933105
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.9014472961426,
+					29.1580142973633
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.216302871582,
+					30.5822410583496
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.6796226501465,
+					19.6526927949219
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.3699722290039,
+					16.4989833830566
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.7131004333496,
+					23.227466583252
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.6433696745605,
+					14.5845975876465
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.8403129577637,
+					10.9260883330078
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.6081562041016,
+					3.82510781298828
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.6202678679199,
+					4.7886304855957
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.8576545715332,
+					5.39274024951172
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.5821170805664,
+					5.88877296435547
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.8174438476563,
+					6.45587205883789
+				]
+			},
+			"properties": {
+				"name": "Crystal Outcropping",
+				"type": 3302443
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.3590641020508,
+					24.6242332458496
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.3955307006836,
+					28.5580940246582
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.1508293151855,
+					30.0725803374023
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.6651763916016,
+					28.1215496062012
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.6967926025391,
+					22.619068145752
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					22.4864292143555,
+					20.4566745756836
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					22.5632629394531,
+					22.8848037719727
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					23.8504371643066,
+					17.7893352509766
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.9142208100586,
+					8.28713798510742
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					22.2560291289062,
+					0.657789170654297
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.6906328200684,
+					28.8524627685547
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.6390466689453,
+					24.418830871582
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.95836925512695,
+					23.0275535583496
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.7944850922852,
+					18.7640323637695
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1524744033203,
+					17.1633682250977
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.6929330825195,
+					17.9124851225586
+				]
+			},
+			"properties": {
+				"name": "Wood Pile",
+				"type": 2859477
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.2651767729492,
+					18.8891620634766
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.2748260498047,
+					16.4556922912598
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.64065456396484,
+					13.3262710571289
+				]
+			},
+			"properties": {
+				"name": "Acid",
+				"type": 1629307
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					12.2038221359863,
 					1.16049277783203
 				]
@@ -517,6 +6761,216 @@
 			"properties": {
 				"name": "Junk Pile",
 				"type": 99270
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.7382001877441,
+					0.841492891357422
+				]
+			},
+			"properties": {
+				"name": "Gravel Pit",
+				"type": 1635590
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.7991065979004,
+					4.78784990307617
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.244387626709,
+					7.40194654467773
+				]
+			},
+			"properties": {
+				"name": "Aluminum Deposit",
+				"type": 3517865
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.7265625,
+					30.8125
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.87527704248047,
+					30.704324722168
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.22458171850586,
+					31.209451675293
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.77022361743164,
+					27.7957038879395
+				]
+			},
+			"properties": {
+				"name": "Oil Seep",
+				"type": 1635503
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.40608072290039,
+					22.8417568208008
+				]
+			},
+			"properties": {
+				"name": "Gold Deposit",
+				"type": 3517877
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.72370672216797,
+					18.4470348359375
+				]
+			},
+			"properties": {
+				"name": "Coal Deposit",
+				"type": 3517872
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.26775073999023,
+					10.1359577177734
+				]
+			},
+			"properties": {
+				"name": "Copper Deposit",
+				"type": 3517874
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38200521459961,
+					12.6802339553223
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.65078163134766,
+					10.6205863952637
+				]
+			},
+			"properties": {
+				"name": "Silver Deposit",
+				"type": 3517885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.81206059448242,
+					3.33368778222656
+				]
+			},
+			"properties": {
+				"name": "Uranium Deposit",
+				"type": 3517888
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.44024419775391,
+					5.15750741967773
+				]
+			},
+			"properties": {
+				"name": "Lead Deposit",
+				"type": 3517882
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.59045648583984,
+					6.68480396264648
+				]
+			},
+			"properties": {
+				"name": "Iron Deposit",
+				"type": 3517879
 			}
 		}
 	]
