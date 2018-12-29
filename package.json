@@ -1,0 +1,19 @@
+{
+  "name": "fo76map",
+  "version": "1.0.0",
+  "description": "Cloning a Fallout 76 Map, and converting it to NPM, as a learning exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaketclarke/fo76map.git"
+  },
+  "author": "jaketclarke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaketclarke/fo76map/issues"
+  },
+  "homepage": "https://github.com/jaketclarke/fo76map#readme"
+}
