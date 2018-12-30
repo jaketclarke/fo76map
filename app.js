@@ -98,6 +98,13 @@ function testMapLayerMaker(res) {
     }).addTo(map);
 };
 
+marker_23 = new L.AwesomeMarkers.icon({
+  icon:'trophy',
+  iconColor: '#ffd123',
+  markerColor: 'black'
+});
+
+
 function iconPopup(gjp){
   var title = gjp.properties.name;
   var body = gjp.properties.type;
@@ -111,13 +118,7 @@ function iconChooser(gjp) {
   // default
   var icon = new L.AwesomeMarkers.icon();
 
-  if (gjp.properties.type == 23) {
-    icon = new L.AwesomeMarkers.icon({
-      icon: 'cog',
-      iconColor: '#C88033',
-      markerColor: 'black'
-      });
-  }
+  if (gjp.properties.type == 23){icon = marker_23}
   
   return icon;
 }
