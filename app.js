@@ -1,4 +1,4 @@
-// Initialize leaflet.js
+// requirements
 var L = require('leaflet');
 var lam = require('leaflet.awesome-markers');
 var lmp = require('leaflet-mouse-position');
