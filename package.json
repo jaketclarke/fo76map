@@ -2,9 +2,10 @@
   "name": "fo76map",
   "version": "1.0.0",
   "description": "Cloning a Fallout 76 Map, and converting it to NPM, as a learning exercise",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "beefy app.js:bundle.js --live",
+    "bundle": "browserify app.js -o bundle.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/jaketclarke/fo76map#readme",
   "dependencies": {
+    "beefy": "^2.1.8",
+    "browserify": "^16.2.3",
     "leaflet": "^1.3.4"
   }
 }
