@@ -3,9 +3,34 @@ html, body {
 	height: 100%;
 	font-family: 'Roboto', sans-serif;
 }
+
 #map {
 	height: 100%;
 }
+
+.leaflet-popup-content-wrapper {
+	background:#2c3e50;
+	color:#fff;
+	font-size:16px;
+	line-height:24px;
+	border-radius: 0px;
+}
+
+.leaflet-popup-content-wrapper a {
+	color:rgba(255,255,255,0.1);
+}
+
+.leaflet-popup-tip-container {
+	width:30px;
+	height:15px;
+}
+
+.leaflet-popup-tip {
+	background: transparent;
+	border: none;
+	box-shadow: none;
+}
+
 .leaflet-container {
 	background: #000;
 	font-family: 'Open Sans', sans-serif;
@@ -15,3 +40,11 @@ html, body {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 500;
 }
+
+.leaflet-container a{
+	color: lightblue;
+}
+
+/* .fo76-leaflet-popup {
+
+} */

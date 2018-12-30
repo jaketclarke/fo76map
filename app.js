@@ -87,11 +87,7 @@ testJSON.done(function(response) {
 function testMapLayerMaker(res) {
     L.geoJSON(res, {
       pointToLayer: function (gjp, ll) {
-        var icon = new L.AwesomeMarkers.icon({
-            icon: 'cog',
-            iconColor: '#C88033',
-            markerColor: 'black'
-        });
+        var icon = iconChooser(gjp)
         return L.marker(ll, {
           icon: icon
         }).bindPopup(iconPopup(gjp));//.bindPopup(gjp.properties.name);
@@ -105,8 +101,28 @@ function testMapLayerMaker(res) {
 function iconPopup(gjp){
   var title = gjp.properties.name;
   var body = gjp.properties.type;
-  return '<div><b>'+title+'</b><br />'+body+'</div>';
+  var url = '';
+
+  if (gjp.properties.name) url = '<a href="http://fallout.wikia.com/wiki/'+encodeURIComponent(gjp.properties.name)+'" target="_blank">Wiki Link</a>';
+  return '<div class=fo76-leaflet-popup><b>'+title+'</b><br />'+url+'<br />'+body+'</div>';
 }
+
+function iconChooser(gjp) {
+  // default
+  var icon = new L.AwesomeMarkers.icon();
+
+  if (gjp.properties.type == 23) {
+    icon = new L.AwesomeMarkers.icon({
+      icon: 'cog',
+      iconColor: '#C88033',
+      markerColor: 'black'
+      });
+  }
+  
+  return icon;
+}
+
+
 
 // add layers
 layerControl.addTo(map);
