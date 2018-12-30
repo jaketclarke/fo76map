@@ -1,6 +1,7 @@
 // Initialize leaflet.js
 var L = require('leaflet');
-var Lam = require('leaflet.awesome-markers');
+var lam = require('leaflet.awesome-markers');
+var lmp = require('leaflet-mouse-position');
 
 // Initialize the map
 var map = L.map('map', {
@@ -24,3 +25,5 @@ L.marker([47.1, 13.34], {
         spin:true
     })
 }).addTo(map);
+
+L.control.mousePosition().addTo(map);

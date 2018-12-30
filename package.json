@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jaketclarke/fo76map#readme",
   "dependencies": {
     "leaflet": "^1.3.4",
+    "leaflet-mouse-position": "^1.0.4",
     "leaflet.awesome-markers": "^2.0.5"
   },
   "devDependencies": {
