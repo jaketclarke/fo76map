@@ -1,17 +1,20 @@
-// requirements
+// pull in leaflet packages we are using
 var L = require('leaflet');
 var lam = require('leaflet.awesome-markers');
 var lmp = require('leaflet-mouse-position');
 
+// use the fontawesome iconset
 L.AwesomeMarkers.Icon.prototype.options.prefix = 'fa';
 
+// setup 'latlng' for this fallout map
 function ll2m(latlng) {
-  return new L.LatLng((latlng.lng + 0.5) * 1.81, latlng.lat * 1.81)
+    return new L.LatLng((latlng.lng + 0.5) * 1.81, latlng.lat * 1.81)
 };
 function m2ll(point) {
-  return new L.LatLng(point.lng / 1.81, (point.lat / 1.81) - 0.5)
+    return new L.LatLng(point.lng / 1.81, (point.lat / 1.81) - 0.5)
 };
 
+// tile layers
 var cityLayer = L.tileLayer('citytiles/{z}/{x}/{y}.jpg', {
 	attribution: 'Fallout 76 &copy; Bethesda Game Studios',
 	maxNativeZoom: 4
@@ -21,45 +24,58 @@ var militaryLayer = L.tileLayer('militarytiles/{z}/{x}/{y}.jpg', {
 	maxNativeZoom: 4
   });
 
+// overlay layers
 var overlays = {
-  mapmarkers: new L.layerGroup(),
-  workshops: new L.layerGroup(),
-  bobbleheads: new L.layerGroup(),
-  powerarmors: new L.layerGroup(),
-  fusioncores: new L.layerGroup(),
-  hardpoints: new L.layerGroup()
+    mapmarkers: new L.layerGroup(),
+    workshops: new L.layerGroup(),
+    bobbleheads: new L.layerGroup(),
+    powerarmors: new L.layerGroup(),
+    fusioncores: new L.layerGroup(),
+    hardpoints: new L.layerGroup()
 };
 
+// inital map zoom placement
+var mapCentre = ll2m(new L.LatLng(-25.3327, 22.9539));
+
+// layer control panel
+var layerControl = L.control.layers({
+    "City": cityLayer,
+    "Military": militaryLayer
+}, {
+    "Map Markers": overlays['mapmarkers'],
+    "Public Workshops": overlays['workshops'],
+    "Bobbleheads": overlays['bobbleheads'],
+    "Powerarmors": overlays['powerarmors'],
+    "Fusion Cores": overlays['fusioncores'],
+    "Deposits": overlays['hardpoints']
+});
+
+// mouse position controller
+var mousePosition = L.control.mousePosition({
+    lngFirst: true,
+    lngFormatter: function (lng) {
+        return (lng / 1.81).toFixed(2);
+    },
+    latFormatter: function (lat) {
+        return ((lat / 1.81) - 0.5).toFixed(2);
+    },
+});
+
+// map
 var map = L.map('map', {
 	crs: L.CRS.Simple,
 	zoom: 3,
 	maxZoom: 6,
-	center: ll2m(new L.LatLng(-25.3327, 22.9539)),
+	center: mapCentre,
 	maxBounds: [[-256, -256], [256, 256]],
 	layers: [cityLayer, overlays['mapmarkers']]
   });
 
-L.control.layers({
-  "City": cityLayer,
-  "Military": militaryLayer
-}, {
-  "Map Markers": overlays['mapmarkers'],
-  "Public Workshops": overlays['workshops'],
-  "Bobbleheads": overlays['bobbleheads'],
-  "Powerarmors": overlays['powerarmors'],
-  "Fusion Cores": overlays['fusioncores'],
-  "Deposits": overlays['hardpoints']
-}).addTo(map);
+// add layers
+layerControl.addTo(map);
 
-L.control.mousePosition({
-  lngFirst: true,
-  lngFormatter: function (lng) {
-	return (lng / 1.81).toFixed(2);
-  },
-  latFormatter: function (lat) {
-	return ((lat / 1.81) - 0.5).toFixed(2);
-  },
-}).addTo(map);
+// add position
+mousePosition.addTo(map);
 
 var icons = {};
 ["cave", "city", "encampment", "factory", "monument",
@@ -88,7 +104,7 @@ var icons = {};
 ].forEach(function (name, key) {
   icons[key] = new L.icon({
 	  iconUrl: 'icons/' + name + '.png',
-	  iconSize: [20, 20]
+	  iconSize: [35, 35]
 	});
 });
 
