@@ -81,12 +81,10 @@ var map = L.map('map', {
 
 var testJSON = jquery.getJSON('data/mapmarkerstest.json');
 testJSON.done(function(response) {
-    console.log(response)
     testMapLayerMaker(response)
 });
 
 function testMapLayerMaker(res) {
-    console.log(res)
     L.geoJSON(res, {
       pointToLayer: function (gjp, ll) {
         var icon = new L.AwesomeMarkers.icon({
@@ -96,13 +94,19 @@ function testMapLayerMaker(res) {
         });
         return L.marker(ll, {
           icon: icon
-        }).bindPopup(gjp.properties.name);
+        }).bindPopup(iconPopup(gjp));//.bindPopup(gjp.properties.name);
       },
       coordsToLatLng(coords) {
           return new L.LatLng(coords[1] * 1.81, coords[0] * 1.81);
       }
     }).addTo(map);
 };
+
+function iconPopup(gjp){
+  var title = gjp.properties.name;
+  var body = gjp.properties.type;
+  return '<div><b>'+title+'</b><br />'+body+'</div>';
+}
 
 // add layers
 layerControl.addTo(map);
