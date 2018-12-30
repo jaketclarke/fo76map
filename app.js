@@ -2,6 +2,8 @@
 var L = require('leaflet');
 var lam = require('leaflet.awesome-markers');
 var lmp = require('leaflet-mouse-position');
+var la = require('leaflet-ajax');
+var jquery = require('jquery');
 
 // use the fontawesome iconset
 L.AwesomeMarkers.Icon.prototype.options.prefix = 'fa';
@@ -16,13 +18,14 @@ function m2ll(point) {
 
 // tile layers
 var cityLayer = L.tileLayer('citytiles/{z}/{x}/{y}.jpg', {
-	attribution: 'Fallout 76 &copy; Bethesda Game Studios',
-	maxNativeZoom: 4
-  });
+    attribution: 'Fallout 76 &copy; Bethesda Game Studios',
+    maxNativeZoom: 4
+});
+
 var militaryLayer = L.tileLayer('militarytiles/{z}/{x}/{y}.jpg', {
-	attribution: 'Fallout 76 &copy; Bethesda Game Studios',
-	maxNativeZoom: 4
-  });
+    attribution: 'Fallout 76 &copy; Bethesda Game Studios',
+    maxNativeZoom: 4
+});
 
 // overlay layers
 var overlays = {
@@ -42,6 +45,7 @@ var layerControl = L.control.layers({
     "City": cityLayer,
     "Military": militaryLayer
 }, {
+    // "Map Markers": overlays['mapmarkers'],
     "Map Markers": overlays['mapmarkers'],
     "Public Workshops": overlays['workshops'],
     "Bobbleheads": overlays['bobbleheads'],
@@ -63,13 +67,42 @@ var mousePosition = L.control.mousePosition({
 
 // map
 var map = L.map('map', {
-	crs: L.CRS.Simple,
-	zoom: 3,
-	maxZoom: 6,
-	center: mapCentre,
-	maxBounds: [[-256, -256], [256, 256]],
-	layers: [cityLayer, overlays['mapmarkers']]
-  });
+    crs: L.CRS.Simple,
+    zoom: 3,
+    maxZoom: 6,
+    center: mapCentre,
+    maxBounds: [[-256, -256], [256, 256]],
+    layers: [cityLayer, overlays['mapmarkers']]
+});
+
+// map layer
+
+// get data, call function that defines loading it
+
+var testJSON = jquery.getJSON('data/mapmarkerstest.json');
+testJSON.done(function(response) {
+    console.log(response)
+    testMapLayerMaker(response)
+});
+
+function testMapLayerMaker(res) {
+    console.log(res)
+    L.geoJSON(res, {
+      pointToLayer: function (gjp, ll) {
+        var icon = new L.AwesomeMarkers.icon({
+            icon: 'cog',
+            iconColor: '#C88033',
+            markerColor: 'black'
+        });
+        return L.marker(ll, {
+          icon: icon
+        }).bindPopup(gjp.properties.name);
+      },
+      coordsToLatLng(coords) {
+          return new L.LatLng(coords[1] * 1.81, coords[0] * 1.81);
+      }
+    }).addTo(map);
+};
 
 // add layers
 layerControl.addTo(map);
@@ -237,7 +270,7 @@ function loadJSON(name, res) {
   }).addTo(overlays[name]);
 }
 
-['mapmarkers', 'workshops', 'bobbleheads', 'powerarmors', 'fusioncores', 'hardpoints'].forEach(function (name) {
+['workshops', 'bobbleheads', 'powerarmors', 'fusioncores', 'hardpoints'].forEach(function (name) {
   var req = new XMLHttpRequest();
   req.responseType = 'json';
   req.addEventListener('load', function () {
@@ -246,3 +279,4 @@ function loadJSON(name, res) {
   req.open('GET', 'data/' + name + '.json');
   req.send();
 });
+
