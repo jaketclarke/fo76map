@@ -37,7 +37,7 @@ with open('workshops.json') as f:
 
 
 # build outfile
-outfile = open('data.json', 'w')
+outfile = open('../data.json', 'w')
 
 # write magic collection string
 outfile.write('{"type":"FeatureCollection","Features":[')
