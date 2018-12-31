@@ -79,7 +79,8 @@ var map = L.map('map', {
 
 // get data, call function that defines loading it
 
-var testJSON = jquery.getJSON('data/mapmarkerstest.json');
+var testJSON = jquery.getJSON('data/data.json');
+
 testJSON.done(function(response) {
     testMapLayerMaker(response)
 });
