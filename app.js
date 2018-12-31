@@ -34,7 +34,8 @@ var overlays = {
     bobbleheads: new L.layerGroup(),
     powerarmors: new L.layerGroup(),
     fusioncores: new L.layerGroup(),
-    hardpoints: new L.layerGroup()
+    hardpoints: new L.layerGroup(),
+    jakestest: new L.layerGroup()
 };
 
 // inital map zoom placement
@@ -45,14 +46,9 @@ var layerControl = L.control.layers({
     "City": cityLayer,
     "Military": militaryLayer
 }, {
-    // "Map Markers": overlays['mapmarkers'],
-    "Map Markers": overlays['mapmarkers'],
-    "Public Workshops": overlays['workshops'],
-    "Bobbleheads": overlays['bobbleheads'],
-    "Powerarmors": overlays['powerarmors'],
-    "Fusion Cores": overlays['fusioncores'],
-    "Deposits": overlays['hardpoints']
-});
+    "Map Markers": overlays['jakestest']
+}
+);
 
 // mouse position controller
 var mousePosition = L.control.mousePosition({
@@ -72,7 +68,7 @@ var map = L.map('map', {
     maxZoom: 6,
     center: mapCentre,
     maxBounds: [[-256, -256], [256, 256]],
-    layers: [cityLayer, overlays['mapmarkers']]
+    layers: [cityLayer, overlays['jakestest']]
 });
 
 // map layer
@@ -96,7 +92,7 @@ function testMapLayerMaker(res) {
       coordsToLatLng(coords) {
           return new L.LatLng(coords[1] * 1.81, coords[0] * 1.81);
       }
-    }).addTo(map);
+    }).addTo(overlays['jakestest'])
 };
 
 marker_23 = new L.AwesomeMarkers.icon({
@@ -129,14 +125,3 @@ layerControl.addTo(map);
 
 // add position
 mousePosition.addTo(map);
-
-// ['workshops', 'bobbleheads', 'powerarmors', 'fusioncores', 'hardpoints'].forEach(function (name) {
-//   var req = new XMLHttpRequest();
-//   req.responseType = 'json';
-//   req.addEventListener('load', function () {
-// 	loadJSON(name, this);
-//   });
-//   req.open('GET', 'data/' + name + '.json');
-//   req.send();
-// });
-
