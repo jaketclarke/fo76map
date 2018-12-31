@@ -40,7 +40,7 @@ with open('workshops.json') as f:
 outfile = open('../data.json', 'w')
 
 # write magic collection string
-outfile.write('{"type":"FeatureCollection","Features":[')
+outfile.write('{"type":"FeatureCollection","features":[')
 
 # to not write a comma on the final line
 i=1
