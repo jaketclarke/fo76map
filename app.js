@@ -95,12 +95,111 @@ function testMapLayerMaker(res) {
     }).addTo(overlays['jakestest'])
 };
 
+icons = [];
+
+marker_1 = new L.AwesomeMarkers.icon({
+    icon:'house',
+    iconColor: '#c0211a',
+    markerColor: 'green'
+});
+
 marker_23 = new L.AwesomeMarkers.icon({
   icon:'trophy',
   iconColor: '#ffd123',
   markerColor: 'black'
 });
 
+icons['r_junk'] = new L.AwesomeMarkers.icon({
+	icon: 'trash',
+	iconColor: 'white',
+	markerColor: 'black'
+});
+
+/* Black Titanium */
+icons['r_blacktitanium'] = new L.AwesomeMarkers.icon({
+	icon: 'cubes',
+	iconColor: 'white',
+	markerColor: 'black'
+});
+
+// /* Uranium */
+// icons[3517888] = new L.AwesomeMarkers.icon({
+// 	icon: 'exclamation-circle',
+// 	iconColor: '#00FF00',
+// 	markerColor: 'black'
+// });
+// /* Acid */
+// icons[1629307] = new L.AwesomeMarkers.icon({
+// 	icon: 'flask',
+// 	iconColor: '#8FFE09',
+// 	markerColor: 'black'
+// });
+// /* Wood */
+// icons[2859477] = new L.AwesomeMarkers.icon({
+// 	icon: 'tree',
+// 	iconColor: 'green',
+// 	markerColor: 'black'
+// });
+// /* Oil */
+// icons[1635503] = new L.AwesomeMarkers.icon({
+// 	icon: 'tint',
+// 	iconColor: 'aqua',
+// 	markerColor: 'black'
+// });
+// /* Crystal */
+// icons[3302443] = new L.AwesomeMarkers.icon({
+// 	icon: 'diamond',
+// 	iconColor: 'white',
+// 	markerColor: 'black'
+// });
+// /* Gravel */
+// icons[1635590] = new L.AwesomeMarkers.icon({
+// 	icon: 'th',
+// 	iconColor: 'white',
+// 	markerColor: 'black'
+// });
+// /* Phosphate */
+// icons[3952139] = new L.AwesomeMarkers.icon({
+// 	icon: 'fire',
+// 	iconColor: 'red',
+// 	markerColor: 'black'
+// });
+// /* Coal */
+// icons[3517872] = new L.AwesomeMarkers.icon({
+// 	icon: 'cog',
+// 	iconColor: 'white',
+// 	markerColor: 'black'
+// });
+// /* Gold */
+// icons[3517877] = new L.AwesomeMarkers.icon({
+// 	icon: 'trophy',
+// 	iconColor: '#ffd123',
+// 	markerColor: 'black'
+// });
+// /* Silver */
+// icons[3517885] = new L.AwesomeMarkers.icon({
+// 	icon: 'trophy',
+// 	iconColor: '#c0c0c0',
+// 	markerColor: 'black'
+// });
+// /* Iron */
+// icons[3517879] = new L.AwesomeMarkers.icon({
+// 	icon: 'bars',
+// 	iconColor: 'white',
+// 	markerColor: 'black'
+// });
+// /* Lead */
+// icons[3517882] = new L.AwesomeMarkers.icon({
+// 	icon: 'pencil',
+// 	iconColor: 'white',
+// 	markerColor: 'black'
+// });
+// /* Aluminium */
+// icons[3517865] = new L.AwesomeMarkers.icon({
+// 	icon: 'paperclip',
+// 	iconColor: 'white',
+// 	markerColor: 'black'
+// });
 
 function iconPopup(gjp){
   var title = gjp.properties.name;
@@ -116,7 +215,10 @@ function iconChooser(gjp) {
   var icon = new L.AwesomeMarkers.icon();
 
   if (gjp.properties.type == 23){icon = marker_23}
-  
+  if (gjp.properties.type == 1){icon = marker_1}
+  if (gjp.properties.name == 'Black Titanium Deposit') {icon = icons['r_blacktitanium']}
+  if (gjp.properties.name == 'Junk Pile') {icon = icons['r_junk']}
+ 
   return icon;
 }
 
